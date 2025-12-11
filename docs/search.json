@@ -7,46 +7,53 @@
     "text": "Download Full CV (PDF)"
   },
   {
+    "objectID": "cv.html#professional-summary",
+    "href": "cv.html#professional-summary",
+    "title": "Curriculum Vitae",
+    "section": "Professional Summary",
+    "text": "Professional Summary\nFinal-year PhD candidate at UCL’s Social Research Institute with 4+ years’ experience evaluating social policies using advanced quantitative methods, administrative data, and mixed methods approaches. Published researcher with a track record of translating complex statistical analyses into policy-relevant outputs and integrating qualitative insights, including evidence contributing to current UK parliamentary legislation. Expert in causal inference, quasi-experimental design, and secure data management across ONS and UCL platforms."
+  },
+  {
     "objectID": "cv.html#education",
     "href": "cv.html#education",
     "title": "Curriculum Vitae",
     "section": "Education",
-    "text": "Education\nPhD in Economics | University Name | 20XX – Present\n\nAdvisors: Prof. Name, Prof. Name\nFields: [Primary Field], [Secondary Field]\n\nMSc in [Field] | University Name | 20XX\n\nDissertation: Title of Dissertation\n\nBA in [Field] | University Name | 20XX\n\nHonours/Awards if applicable"
+    "text": "Education\nPhD Social Science | University College London | 2021 – Present (Expected early 2026)\n\nThesis: “The Limits of Retrospective Evaluation: Lessons from Multi-Agency Front Door Services for Future Complex Intervention Research in England”\nAdvanced training: Cambridge Econometrics Summer School (2025) – TWFE, DiD, Machine Learning for Causal Inference\nAdditional training: CEMMAP Policy Evaluation, Hospital Episode Statistics, ONS Administrative Data\n\nMSc Social Research Methods | University College London | 2019 – 2021 | Distinction\n\nModules: Advanced Quantitative Methods, Regression Analysis, Impact Evaluation, Systematic Reviews\n\nMSc Public Policy | Universidad de Chile | 2014 – 2016 | Distinction\nBSc Economics | Escuela Superior de Economía y Negocios (ESEN), El Salvador | 2008 – 2012"
   },
   {
     "objectID": "cv.html#research-experience",
     "href": "cv.html#research-experience",
     "title": "Curriculum Vitae",
     "section": "Research Experience",
-    "text": "Research Experience\nResearch Assistant | Institution Name | 20XX – Present\n\nProject: [Brief description]\nSupervisor: Prof. Name\n\nPredoctoral Fellow | Institution Name | 20XX – 20XX\n\nDescription of role"
+    "text": "Research Experience\nResearch Fellow | UCL Division of Psychiatry and Centre for Longitudinal Studies | November 2025 – Present\n\nECHILD website data management using RStudio and GitHub\n\nResearch Assistant | UCL Division of Psychiatry and Centre for Longitudinal Studies | October 2025 – Present\n\nPrepared statistical analysis plan to evaluate educational policy on LGBTQ+ young people’s mental health outcomes\nApplying quasi-experimental methods for causal inference (Difference-in-Differences, Interrupted Time Series, Two-Way Fixed Effects)\nContributing to creation of the PPIE plan\n\nResearch Lead | Thomas Coram Research Unit, UCL | February 2024 – September 2025\n\nLed qualitative implementation and process evaluation of Multi-Agency Safeguarding Hubs (MASH) across England, producing evidence now supporting the Children’s School and Wellbeing Bill in Parliament and Working Together 2025\nAnalysed nationwide survey data (111/152 Local Authorities) to map service variations and inform strategic case study selection\nCo-authored major policy report (Foundations, 2025), influencing national safeguarding policy framework\n\nResearch Assistant | ICH Population, Policy & Practice, UCL | August 2022 – February 2023\n\nLed rapid systematic review of child development assessment tools\nCo-authored Department of Health and Social Care-commissioned report on 2-2½ year developmental health tool\nPublished findings in BMJ Open (2024)\n\nResearch Assistant | International Inequalities Institute, LSE | September 2019 – September 2021\n\nConducted quantitative analysis on well-being and job quality using longitudinal surveys from 9+ countries\nCo-authored three peer-reviewed publications in high-impact journals"
   },
   {
     "objectID": "cv.html#teaching-experience",
     "href": "cv.html#teaching-experience",
     "title": "Curriculum Vitae",
     "section": "Teaching Experience",
-    "text": "Teaching Experience\nTeaching Assistant | University Name\n\nCourse Name (Term 20XX)\nAnother Course (Term 20XX)"
+    "text": "Teaching Experience\nSeminar Leader | UCL Social Research Institute | 2022 – Present\n\nAdvanced Quantitative Methods (MSc): Teaching multilevel modelling using STATA and R\nIntroduction to Regression Analysis/Foundations of Data Science (MSc): Linear, logistic, and multinomial regression\nR Coding Therapy Sessions (BSc): Led weekly problem-solving sessions supporting 30+ dissertation students"
   },
   {
-    "objectID": "cv.html#presentations",
-    "href": "cv.html#presentations",
+    "objectID": "cv.html#selected-publications",
+    "href": "cv.html#selected-publications",
     "title": "Curriculum Vitae",
-    "section": "Presentations",
-    "text": "Presentations\n\n20XX: Conference Name (City), Workshop Name (City)\n20XX: Another Conference (City)"
+    "section": "Selected Publications",
+    "text": "Selected Publications\n\nPeer-Reviewed Articles\nLysons JL, Méndez Pineda R, et al. (2024). What do parents, professionals and policy colleagues want from a universal assessment of child development? BMJ Open, 14(12):e091080. Link\nWoodman J, Holmes L, Hood R, Scourfield J, Soraghan J, Park J, McGrath-Lone L, Méndez Pineda R. (2025, forthcoming). Just because we can, doesn’t mean we should: responsible uses of administrative data in children’s social care evaluation. British Journal of Social Work.\nApablaza M, Sehnbruch K, González P, & Méndez Pineda R. (2022). Regional inequality in multidimensional quality of employment: insights from Chile, 1996–2017. Regional Studies, 57(3), 416–433. Link\nGonzález P, Sehnbruch K, Apablaza M, Méndez Pineda R, Arriagada V. (2021). A Multidimensional Approach to Measuring Quality of Employment (QoE) Deprivation in Six Central American Countries. Social Indicators Research 158, 107–141. Link\nSehnbruch K, González P, Apablaza M, Méndez R, Arriagada V. (2020). The Quality of Employment in nine Latin American countries. World Development, 127, 104738. Link\n\n\nPolicy Reports\nMéndez Pineda R, Woodman J, et al. (2025). Evaluation of Multi-Agency Safeguarding Hubs. London: Foundations. Link\nLysons J, Méndez Pineda R, Woodman J, et al. (2023). Measuring child development at the 2-2½ year health and development review. NIHR Policy Research Unit & UCL. Link"
   },
   {
-    "objectID": "cv.html#awards-fellowships",
-    "href": "cv.html#awards-fellowships",
+    "objectID": "cv.html#technical-skills",
+    "href": "cv.html#technical-skills",
     "title": "Curriculum Vitae",
-    "section": "Awards & Fellowships",
-    "text": "Awards & Fellowships\n\nFellowship Name, Institution (20XX)\nAward Name (20XX)"
+    "section": "Technical Skills",
+    "text": "Technical Skills\nStatistical Software: STATA (10+ years, teaching level), R/RStudio (4+ years, teaching level), NVivo, QGIS/ArcGIS, SQL, Python\nQuantitative Methods: Causal inference, quasi-experimental design, propensity score matching, instrumental variables, Two-Way Fixed Effects, multilevel modelling, panel data analysis, Difference-in-differences, synthetic controls, regression discontinuity\nQualitative Methods: Semi-structured interviews, focus group facilitation, thematic analysis, framework analysis, PPIE\nData Platforms: REDCap, UCL Data Safe Haven, ONS Secure Research Service, web scraping, text mining"
   },
   {
-    "objectID": "cv.html#skills",
-    "href": "cv.html#skills",
+    "objectID": "cv.html#professional-memberships",
+    "href": "cv.html#professional-memberships",
     "title": "Curriculum Vitae",
-    "section": "Skills",
-    "text": "Skills\n\nProgramming: R, Stata, Python, LaTeX\nLanguages: English (native), [Other languages]"
+    "section": "Professional Memberships",
+    "text": "Professional Memberships\n\nUK Evaluation Society\nSocial Research Association"
   },
   {
     "objectID": "cv.html#references",
@@ -60,14 +67,14 @@
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "I am happy to discuss research, potential collaborations, or opportunities.\nEmail: your.email@university.edu\nOffice: Room XXX, Building Name\nDepartment of Economics\nUniversity Name\nStreet Address\nCity, Postcode, Country"
+    "text": "I am happy to discuss research, potential collaborations, or opportunities.\nEmail: rocio.mendez.19@ucl.ac.uk\nOffice: Social Research Institute\nInstitute of Education (IoE) UCL London, UK"
   },
   {
     "objectID": "contact.html#get-in-touch",
     "href": "contact.html#get-in-touch",
     "title": "Contact",
     "section": "",
-    "text": "I am happy to discuss research, potential collaborations, or opportunities.\nEmail: your.email@university.edu\nOffice: Room XXX, Building Name\nDepartment of Economics\nUniversity Name\nStreet Address\nCity, Postcode, Country"
+    "text": "I am happy to discuss research, potential collaborations, or opportunities.\nEmail: rocio.mendez.19@ucl.ac.uk\nOffice: Social Research Institute\nInstitute of Education (IoE) UCL London, UK"
   },
   {
     "objectID": "contact.html#office-hours",
@@ -88,69 +95,76 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Abstract: Brief abstract of your paper goes here. Keep it concise—3-4 sentences summarizing the research question, method, and key findings.\nDownload PDF | Slides\nPresentations: Conference Name (20XX), Workshop Name (20XX)\n\n\n\n\nAbstract: Brief abstract of your second paper.\nDownload PDF\nStatus: Under Review at Journal Name"
+    "text": "My research focuses on evaluating social policies to improve outcomes for children and young people, with expertise in quasi-experimental methods, administrative data analysis, and mixed methods approaches."
   },
   {
-    "objectID": "research.html#working-papers",
-    "href": "research.html#working-papers",
+    "objectID": "research.html#working-papers-pre-prints",
+    "href": "research.html#working-papers-pre-prints",
     "title": "Research",
-    "section": "",
-    "text": "Abstract: Brief abstract of your paper goes here. Keep it concise—3-4 sentences summarizing the research question, method, and key findings.\nDownload PDF | Slides\nPresentations: Conference Name (20XX), Workshop Name (20XX)\n\n\n\n\nAbstract: Brief abstract of your second paper.\nDownload PDF\nStatus: Under Review at Journal Name"
-  },
-  {
-    "objectID": "research.html#work-in-progress",
-    "href": "research.html#work-in-progress",
-    "title": "Research",
-    "section": "Work in Progress",
-    "text": "Work in Progress\n\nProject Title: Brief one-sentence description of what you’re working on.\nAnother Project: Brief description."
+    "section": "Working Papers & Pre-Prints",
+    "text": "Working Papers & Pre-Prints\n\nMulti-agency front door services within children’s social care in England: A scoping review and national survey\nMéndez Pineda R, Grant C, Blythe F, Harron K & Woodman J (2025)\nThis paper presents findings from a scoping review and the first comprehensive national survey of Multi-Agency Safeguarding Hubs (MASH) in England, mapping implementation across 111 of 152 Local Authorities.\nPre-Print\n\n\n\nA qualitative study of stakeholder perspectives on adopting a digital tool to measure child development at the 2-2½ year review in England\nLysons JL, Méndez Pineda R, Aquino MRJ, Cann H, Fearon P, Kendall S, et al. (2025)\nPre-Print"
   },
   {
     "objectID": "research.html#publications",
     "href": "research.html#publications",
     "title": "Research",
     "section": "Publications",
-    "text": "Publications\n\nPublished Paper Title\nJournal Name, Volume(Issue), Pages, Year.\nPublished Version | Working Paper"
+    "text": "Publications\n\nPeer-Reviewed Articles\nLysons JL, Méndez Pineda R, et al. (2024). What do parents, professionals and policy colleagues want from a universal assessment of child development? BMJ Open, 14(12):e091080. Link\nWoodman J, Holmes L, Hood R, Scourfield J, Soraghan J, Park J, McGrath-Lone L, Méndez Pineda R. (2025, In press). Just because we can, doesn’t mean we should: responsible uses of administrative data in children’s social care evaluation. British Journal of Social Work.\nApablaza M, Sehnbruch K, González P, & Méndez Pineda R. (2022). Regional inequality in multidimensional quality of employment: insights from Chile, 1996–2017. Regional Studies, 57(3), 416–433. Link\nGonzález P, Sehnbruch K, Apablaza M, Méndez Pineda R, Arriagada V. (2021). A Multidimensional Approach to Measuring Quality of Employment (QoE) Deprivation in Six Central American Countries. Social Indicators Research 158, 107–141. Link\nSehnbruch K, González P, Apablaza M, Méndez R, Arriagada V. (2020). The Quality of Employment in nine Latin American countries. World Development, 127, 104738. Link"
   },
   {
-    "objectID": "research.html#policy-work-reports",
-    "href": "research.html#policy-work-reports",
+    "objectID": "research.html#policy-reports",
+    "href": "research.html#policy-reports",
     "title": "Research",
-    "section": "Policy Work & Reports",
-    "text": "Policy Work & Reports\n\nReport Title (Year). Organization Name. Link"
+    "section": "Policy Reports",
+    "text": "Policy Reports\nMéndez Pineda R, Woodman J, et al. (2025). Evaluation of Multi-Agency Safeguarding Hubs. London: Foundations. Contributing evidence to Children’s School and Wellbeing Bill and Working Together 2025. Commissioned by Department for Education. Link\nLysons J, Méndez Pineda R, Woodman J, et al. (2023). Measuring child development at the 2-2½ year health and development review. NIHR Policy Research Unit & UCL. Commissioned by Department of Health and Social Care. Link"
+  },
+  {
+    "objectID": "research.html#phd-research",
+    "href": "research.html#phd-research",
+    "title": "Research",
+    "section": "PhD Research",
+    "text": "PhD Research\nThesis: “An Evaluation of Multi-Agency Front Door Services in England”\nMy doctoral research examines the implementation and effectiveness of Multi-Agency Front Door Services (MAFDs) across England using:\n\nECHILD: Linked administrative data including National Pupil Database and Hospital Episode Statistics (2008-2022)\nNational survey: Designed and deployed via REDCap with 73% response rate (111/152 Local Authorities)\nText mining: Web scraped and analysed 3,000+ Ofsted reports (2004-2023) to identify MAFDs implementation dates\nQuasi-experimental methods: Difference-in-Differences, Synthetic controls"
+  },
+  {
+    "objectID": "research.html#work-in-progress",
+    "href": "research.html#work-in-progress",
+    "title": "Research",
+    "section": "Work in Progress",
+    "text": "Work in Progress\n\nEvaluating educational policy impacts on LGBTQ+ young people’s mental health outcomes using quasi-experimental methods\nECHILD website development and data management"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Your Name",
+    "title": "Rocío (Ro) Méndez Pineda",
     "section": "",
-    "text": "I am a PhD candidate in [Economics/Social Policy/etc.] at [University Name]. My research focuses on [brief description of your research interests—2-3 sentences max].\nPrior to my PhD, I [brief background—e.g., worked at X, completed my Master’s at Y]."
+    "text": "I am a final-year PhD candidate at UCL’s Social Research Institute. My research focuses on evaluating social policies using advanced quantitative methods, administrative data, and mixed methods approaches to improve outcomes for children and young people.\nMy work has contributed to current UK parliamentary legislation, including evidence supporting the Children’s School and Wellbeing Bill and Working Together 2025."
   },
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
-    "title": "Your Name",
+    "title": "Rocío (Ro) Méndez Pineda",
     "section": "",
-    "text": "I am a PhD candidate in [Economics/Social Policy/etc.] at [University Name]. My research focuses on [brief description of your research interests—2-3 sentences max].\nPrior to my PhD, I [brief background—e.g., worked at X, completed my Master’s at Y]."
+    "text": "I am a final-year PhD candidate at UCL’s Social Research Institute. My research focuses on evaluating social policies using advanced quantitative methods, administrative data, and mixed methods approaches to improve outcomes for children and young people.\nMy work has contributed to current UK parliamentary legislation, including evidence supporting the Children’s School and Wellbeing Bill and Working Together 2025."
   },
   {
     "objectID": "index.html#research-interests",
     "href": "index.html#research-interests",
-    "title": "Your Name",
+    "title": "Rocío (Ro) Méndez Pineda",
     "section": "Research Interests",
-    "text": "Research Interests\n\n[Interest 1, e.g., Labour Economics]\n[Interest 2, e.g., Public Policy Evaluation]\n[Interest 3, e.g., Applied Microeconometrics]"
+    "text": "Research Interests\n\nPolicy evaluation and causal inference\nChild welfare and safeguarding\nAdministrative data linkage (ECHILD)\nQuasi-experimental methods"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
-    "title": "Your Name",
+    "title": "Rocío (Ro) Méndez Pineda",
     "section": "Education",
-    "text": "Education\nPhD in Economics | University Name | Expected 20XX\nMSc in [Field] | University Name | 20XX\nBA in [Field] | University Name | 20XX"
+    "text": "Education\nPhD Social Science | University College London | Expected 2026\nMSc Social Research Methods | University College London | 2021 | Distinction\nMSc Public Policy | Distinction\nBSc Economics"
   },
   {
     "objectID": "index.html#news",
     "href": "index.html#news",
-    "title": "Your Name",
+    "title": "Rocío (Ro) Méndez Pineda",
     "section": "News",
-    "text": "News\n\n[Month 20XX]: Presented at [Conference Name]\n[Month 20XX]: Started as a Research Assistant at [Institution]"
+    "text": "News\n\nNovember 2025: Started as Research Assistant at UCL Division of Psychiatry and Centre for Longitudinal Studies for UCL Grand Challenges\nJune 2025: Policy report on Multi-Agency Safeguarding Hubs published by Foundations\nJuly 2025: Attended Cambridge Econometrics Summer School (TWFE, DiD, ML for Causal Inference)"
   }
 ]
