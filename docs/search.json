@@ -1,0 +1,156 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download Full CV (PDF)"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\nPhD in Economics | University Name | 20XX – Present\n\nAdvisors: Prof. Name, Prof. Name\nFields: [Primary Field], [Secondary Field]\n\nMSc in [Field] | University Name | 20XX\n\nDissertation: Title of Dissertation\n\nBA in [Field] | University Name | 20XX\n\nHonours/Awards if applicable"
+  },
+  {
+    "objectID": "cv.html#research-experience",
+    "href": "cv.html#research-experience",
+    "title": "Curriculum Vitae",
+    "section": "Research Experience",
+    "text": "Research Experience\nResearch Assistant | Institution Name | 20XX – Present\n\nProject: [Brief description]\nSupervisor: Prof. Name\n\nPredoctoral Fellow | Institution Name | 20XX – 20XX\n\nDescription of role"
+  },
+  {
+    "objectID": "cv.html#teaching-experience",
+    "href": "cv.html#teaching-experience",
+    "title": "Curriculum Vitae",
+    "section": "Teaching Experience",
+    "text": "Teaching Experience\nTeaching Assistant | University Name\n\nCourse Name (Term 20XX)\nAnother Course (Term 20XX)"
+  },
+  {
+    "objectID": "cv.html#presentations",
+    "href": "cv.html#presentations",
+    "title": "Curriculum Vitae",
+    "section": "Presentations",
+    "text": "Presentations\n\n20XX: Conference Name (City), Workshop Name (City)\n20XX: Another Conference (City)"
+  },
+  {
+    "objectID": "cv.html#awards-fellowships",
+    "href": "cv.html#awards-fellowships",
+    "title": "Curriculum Vitae",
+    "section": "Awards & Fellowships",
+    "text": "Awards & Fellowships\n\nFellowship Name, Institution (20XX)\nAward Name (20XX)"
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "Curriculum Vitae",
+    "section": "Skills",
+    "text": "Skills\n\nProgramming: R, Stata, Python, LaTeX\nLanguages: English (native), [Other languages]"
+  },
+  {
+    "objectID": "cv.html#references",
+    "href": "cv.html#references",
+    "title": "Curriculum Vitae",
+    "section": "References",
+    "text": "References\nAvailable upon request."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "I am happy to discuss research, potential collaborations, or opportunities.\nEmail: your.email@university.edu\nOffice: Room XXX, Building Name\nDepartment of Economics\nUniversity Name\nStreet Address\nCity, Postcode, Country"
+  },
+  {
+    "objectID": "contact.html#get-in-touch",
+    "href": "contact.html#get-in-touch",
+    "title": "Contact",
+    "section": "",
+    "text": "I am happy to discuss research, potential collaborations, or opportunities.\nEmail: your.email@university.edu\nOffice: Room XXX, Building Name\nDepartment of Economics\nUniversity Name\nStreet Address\nCity, Postcode, Country"
+  },
+  {
+    "objectID": "contact.html#office-hours",
+    "href": "contact.html#office-hours",
+    "title": "Contact",
+    "section": "Office Hours",
+    "text": "Office Hours\nBy appointment. Please email to schedule a meeting."
+  },
+  {
+    "objectID": "contact.html#find-me-online",
+    "href": "contact.html#find-me-online",
+    "title": "Contact",
+    "section": "Find Me Online",
+    "text": "Find Me Online\n\nGitHub\nGoogle Scholar\nORCID\nTwitter/X\nLinkedIn"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Abstract: Brief abstract of your paper goes here. Keep it concise—3-4 sentences summarizing the research question, method, and key findings.\nDownload PDF | Slides\nPresentations: Conference Name (20XX), Workshop Name (20XX)\n\n\n\n\nAbstract: Brief abstract of your second paper.\nDownload PDF\nStatus: Under Review at Journal Name"
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "",
+    "text": "Abstract: Brief abstract of your paper goes here. Keep it concise—3-4 sentences summarizing the research question, method, and key findings.\nDownload PDF | Slides\nPresentations: Conference Name (20XX), Workshop Name (20XX)\n\n\n\n\nAbstract: Brief abstract of your second paper.\nDownload PDF\nStatus: Under Review at Journal Name"
+  },
+  {
+    "objectID": "research.html#work-in-progress",
+    "href": "research.html#work-in-progress",
+    "title": "Research",
+    "section": "Work in Progress",
+    "text": "Work in Progress\n\nProject Title: Brief one-sentence description of what you’re working on.\nAnother Project: Brief description."
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research",
+    "section": "Publications",
+    "text": "Publications\n\nPublished Paper Title\nJournal Name, Volume(Issue), Pages, Year.\nPublished Version | Working Paper"
+  },
+  {
+    "objectID": "research.html#policy-work-reports",
+    "href": "research.html#policy-work-reports",
+    "title": "Research",
+    "section": "Policy Work & Reports",
+    "text": "Policy Work & Reports\n\nReport Title (Year). Organization Name. Link"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Your Name",
+    "section": "",
+    "text": "I am a PhD candidate in [Economics/Social Policy/etc.] at [University Name]. My research focuses on [brief description of your research interests—2-3 sentences max].\nPrior to my PhD, I [brief background—e.g., worked at X, completed my Master’s at Y]."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Your Name",
+    "section": "",
+    "text": "I am a PhD candidate in [Economics/Social Policy/etc.] at [University Name]. My research focuses on [brief description of your research interests—2-3 sentences max].\nPrior to my PhD, I [brief background—e.g., worked at X, completed my Master’s at Y]."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Your Name",
+    "section": "Research Interests",
+    "text": "Research Interests\n\n[Interest 1, e.g., Labour Economics]\n[Interest 2, e.g., Public Policy Evaluation]\n[Interest 3, e.g., Applied Microeconometrics]"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Your Name",
+    "section": "Education",
+    "text": "Education\nPhD in Economics | University Name | Expected 20XX\nMSc in [Field] | University Name | 20XX\nBA in [Field] | University Name | 20XX"
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Your Name",
+    "section": "News",
+    "text": "News\n\n[Month 20XX]: Presented at [Conference Name]\n[Month 20XX]: Started as a Research Assistant at [Institution]"
+  }
+]

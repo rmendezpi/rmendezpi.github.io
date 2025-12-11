@@ -1,0 +1,69 @@
+---
+title: "Research"
+---
+
+My research focuses on evaluating social policies to improve outcomes for children and young people, with expertise in quasi-experimental methods, administrative data analysis, and mixed methods approaches.
+
+---
+
+## Working Papers & Pre-Prints
+
+### Multi-agency front door services within children's social care in England: A scoping review and national survey
+
+**Méndez Pineda R**, Grant C, Blythe F, Harron K & Woodman J (2025)
+
+This paper presents findings from a scoping review and the first comprehensive national survey of Multi-Agency Safeguarding Hubs (MASH) in England, mapping implementation across 111 of 152 Local Authorities.
+
+[Pre-Print](https://doi.org/10.17605/OSF.IO/EXRZA)
+
+---
+
+### A qualitative study of stakeholder perspectives on adopting a digital tool to measure child development at the 2-2½ year review in England
+
+Lysons JL, **Méndez Pineda R**, Aquino MRJ, Cann H, Fearon P, Kendall S, et al. (2025)
+
+[Pre-Print](https://www.medrxiv.org/content/10.1101/2025.07.01.25330617v1)
+
+---
+
+## Publications
+
+### Peer-Reviewed Articles
+
+Lysons JL, **Méndez Pineda R**, et al. (2024). What do parents, professionals and policy colleagues want from a universal assessment of child development? *BMJ Open*, 14(12):e091080. [Link](https://bmjopen.bmj.com/content/bmjopen/14/12/e091080.full.pdf)
+
+Woodman J, Holmes L, Hood R, Scourfield J, Soraghan J, Park J, McGrath-Lone L, **Méndez Pineda R**. (2025, In press). Just because we can, doesn't mean we should: responsible uses of administrative data in children's social care evaluation. *British Journal of Social Work*.
+
+Apablaza M, Sehnbruch K, González P, & **Méndez Pineda R**. (2022). Regional inequality in multidimensional quality of employment: insights from Chile, 1996–2017. *Regional Studies*, 57(3), 416–433. [Link](https://doi.org/10.1080/00343404.2022.2093341)
+
+González P, Sehnbruch K, Apablaza M, **Méndez Pineda R**, Arriagada V. (2021). A Multidimensional Approach to Measuring Quality of Employment (QoE) Deprivation in Six Central American Countries. *Social Indicators Research* 158, 107–141. [Link](https://doi.org/10.1007/s11205-021-02648-0)
+
+Sehnbruch K, González P, Apablaza M, **Méndez R**, Arriagada V. (2020). The Quality of Employment in nine Latin American countries. *World Development*, 127, 104738. [Link](https://doi.org/10.1016/j.worlddev.2019.104738)
+
+---
+
+## Policy Reports
+
+**Méndez Pineda R**, Woodman J, et al. (2025). Evaluation of Multi-Agency Safeguarding Hubs. London: Foundations. *Contributing evidence to Children's School and Wellbeing Bill and Working Together 2025. Commissioned by Department for Education.* [Link](https://foundations.org.uk/wp-content/uploads/2025/06/evaluation-of-multi-agency-safeguarding-hubs.pdf)
+
+Lysons J, **Méndez Pineda R**, Woodman J, et al. (2023). Measuring child development at the 2-2½ year health and development review. NIHR Policy Research Unit & UCL. *Commissioned by Department of Health and Social Care.* [Link](https://www.ucl.ac.uk/children-policy-research/sites/children_policy_research/files/asq_final_report_fin.pdf)
+
+---
+
+## PhD Research
+
+**Thesis**: "An Evaluation of Multi-Agency Front Door Services in England"
+
+My doctoral research examines the implementation and effectiveness of Multi-Agency Front Door Services (MAFDs) across England using:
+
+- **ECHILD**: Linked administrative data including National Pupil Database and Hospital Episode Statistics (2008-2022)
+- **National survey**: Designed and deployed via REDCap with 73% response rate (111/152 Local Authorities)
+- **Text mining**: Web scraped and analysed 3,000+ Ofsted reports (2004-2023) to identify MAFDs implementation dates
+- **Quasi-experimental methods**: Difference-in-Differences, Synthetic controls
+
+---
+
+## Work in Progress
+
+- Evaluating educational policy impacts on LGBTQ+ young people's mental health outcomes using quasi-experimental methods
+- ECHILD website development and data management

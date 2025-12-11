@@ -1,0 +1,72 @@
+/* Custom styles for academic website */
+
+/* Clean, professional typography */
+body {
+  font-family: 'Source Sans Pro', 'Helvetica Neue', sans-serif;
+  line-height: 1.7;
+  color: #2c3e50;
+}
+
+h1, h2, h3, h4 {
+  font-weight: 600;
+  color: #1a252f;
+}
+
+/* Subtle link styling */
+a {
+  color: #2980b9;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #1a5276;
+  text-decoration: underline;
+}
+
+/* About page profile adjustments */
+.about-entity {
+  margin-top: 2rem;
+}
+
+/* Clean horizontal rules */
+hr {
+  border: none;
+  border-top: 1px solid #e0e0e0;
+  margin: 2rem 0;
+}
+
+/* Paper/publication entries */
+h3 {
+  margin-top: 1.5rem;
+  font-size: 1.1rem;
+}
+
+/* Button styling for CV download */
+.btn-primary {
+  background-color: #2c3e50;
+  border-color: #2c3e50;
+  padding: 0.5rem 1.5rem;
+}
+
+.btn-primary:hover {
+  background-color: #1a252f;
+  border-color: #1a252f;
+}
+
+/* Footer styling */
+.nav-footer {
+  border-top: 1px solid #e0e0e0;
+  padding-top: 1rem;
+  font-size: 0.9rem;
+  color: #6c757d;
+}
+
+/* Navbar tweaks */
+.navbar {
+  border-bottom: 1px solid #e0e0e0;
+}
+
+/* Make abstract text slightly smaller */
+p:has(strong:first-child:contains("Abstract")) {
+  font-size: 0.95rem;
+}

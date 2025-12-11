@@ -1,0 +1,115 @@
+---
+title: "Curriculum Vitae"
+---
+
+[Download Full CV (PDF)](cv/MendezPineda_CV.pdf){.btn .btn-primary}
+
+---
+
+## Professional Summary
+
+Final-year PhD candidate at UCL's Social Research Institute with 4+ years' experience evaluating social policies using advanced quantitative methods, administrative data, and mixed methods approaches. Published researcher with a track record of translating complex statistical analyses into policy-relevant outputs and integrating qualitative insights, including evidence contributing to current UK parliamentary legislation. Expert in causal inference, quasi-experimental design, and secure data management across ONS and UCL platforms.
+
+---
+
+## Education
+
+**PhD Social Science** | University College London | 2021 – Present (Expected early 2026)
+
+- Thesis: "The Limits of Retrospective Evaluation: Lessons from Multi-Agency Front Door Services for Future Complex Intervention Research in England"
+- Advanced training: Cambridge Econometrics Summer School (2025) – TWFE, DiD, Machine Learning for Causal Inference
+- Additional training: CEMMAP Policy Evaluation, Hospital Episode Statistics, ONS Administrative Data
+
+**MSc Social Research Methods** | University College London | 2019 – 2021 | Distinction
+
+- Modules: Advanced Quantitative Methods, Regression Analysis, Impact Evaluation, Systematic Reviews
+
+**MSc Public Policy** | Universidad de Chile | 2014 – 2016 | Distinction
+
+**BSc Economics** | Escuela Superior de Economía y Negocios (ESEN), El Salvador | 2008 – 2012
+
+---
+
+## Research Experience
+
+**Research Fellow** | UCL Division of Psychiatry and Centre for Longitudinal Studies | November 2025 – Present
+
+- ECHILD website data management using RStudio and GitHub
+
+**Research Assistant** | UCL Division of Psychiatry and Centre for Longitudinal Studies | October 2025 – Present
+
+- Prepared statistical analysis plan to evaluate educational policy on LGBTQ+ young people's mental health outcomes
+- Applying quasi-experimental methods for causal inference (Difference-in-Differences, Interrupted Time Series, Two-Way Fixed Effects)
+- Contributing to creation of the PPIE plan
+
+**Research Lead** | Thomas Coram Research Unit, UCL | February 2024 – September 2025
+
+- Led qualitative implementation and process evaluation of Multi-Agency Safeguarding Hubs (MASH) across England, producing evidence now supporting the Children's School and Wellbeing Bill in Parliament and Working Together 2025
+- Analysed nationwide survey data (111/152 Local Authorities) to map service variations and inform strategic case study selection
+- Co-authored major policy report (Foundations, 2025), influencing national safeguarding policy framework
+
+**Research Assistant** | ICH Population, Policy & Practice, UCL | August 2022 – February 2023
+
+- Led rapid systematic review of child development assessment tools
+- Co-authored Department of Health and Social Care-commissioned report on 2-2½ year developmental health tool
+- Published findings in BMJ Open (2024)
+
+**Research Assistant** | International Inequalities Institute, LSE | September 2019 – September 2021
+
+- Conducted quantitative analysis on well-being and job quality using longitudinal surveys from 9+ countries
+- Co-authored three peer-reviewed publications in high-impact journals
+
+---
+
+## Teaching Experience
+
+**Seminar Leader** | UCL Social Research Institute | 2022 – Present
+
+- Advanced Quantitative Methods (MSc): Teaching multilevel modelling using STATA and R
+- Introduction to Regression Analysis/Foundations of Data Science (MSc): Linear, logistic, and multinomial regression
+- R Coding Therapy Sessions (BSc): Led weekly problem-solving sessions supporting 30+ dissertation students
+
+---
+
+## Selected Publications
+
+### Peer-Reviewed Articles
+
+Lysons JL, **Méndez Pineda R**, et al. (2024). What do parents, professionals and policy colleagues want from a universal assessment of child development? *BMJ Open*, 14(12):e091080. [Link](https://bmjopen.bmj.com/content/bmjopen/14/12/e091080.full.pdf)
+
+Woodman J, Holmes L, Hood R, Scourfield J, Soraghan J, Park J, McGrath-Lone L, **Méndez Pineda R**. (2025, forthcoming). Just because we can, doesn't mean we should: responsible uses of administrative data in children's social care evaluation. *British Journal of Social Work*.
+
+Apablaza M, Sehnbruch K, González P, & **Méndez Pineda R**. (2022). Regional inequality in multidimensional quality of employment: insights from Chile, 1996–2017. *Regional Studies*, 57(3), 416–433. [Link](https://doi.org/10.1080/00343404.2022.2093341)
+
+González P, Sehnbruch K, Apablaza M, **Méndez Pineda R**, Arriagada V. (2021). A Multidimensional Approach to Measuring Quality of Employment (QoE) Deprivation in Six Central American Countries. *Social Indicators Research* 158, 107–141. [Link](https://doi.org/10.1007/s11205-021-02648-0)
+
+Sehnbruch K, González P, Apablaza M, **Méndez R**, Arriagada V. (2020). The Quality of Employment in nine Latin American countries. *World Development*, 127, 104738. [Link](https://doi.org/10.1016/j.worlddev.2019.104738)
+
+### Policy Reports
+
+**Méndez Pineda R**, Woodman J, et al. (2025). Evaluation of Multi-Agency Safeguarding Hubs. London: Foundations. [Link](https://foundations.org.uk/wp-content/uploads/2025/06/evaluation-of-multi-agency-safeguarding-hubs.pdf)
+
+Lysons J, **Méndez Pineda R**, Woodman J, et al. (2023). Measuring child development at the 2-2½ year health and development review. NIHR Policy Research Unit & UCL. [Link](https://www.ucl.ac.uk/children-policy-research/sites/children_policy_research/files/asq_final_report_fin.pdf)
+
+---
+
+## Technical Skills
+
+**Statistical Software**: STATA (10+ years, teaching level), R/RStudio (4+ years, teaching level), NVivo, QGIS/ArcGIS, SQL, Python
+
+**Quantitative Methods**: Causal inference, quasi-experimental design, propensity score matching, instrumental variables, Two-Way Fixed Effects, multilevel modelling, panel data analysis, Difference-in-differences, synthetic controls, regression discontinuity
+
+**Qualitative Methods**: Semi-structured interviews, focus group facilitation, thematic analysis, framework analysis, PPIE
+
+**Data Platforms**: REDCap, UCL Data Safe Haven, ONS Secure Research Service, web scraping, text mining
+
+---
+
+## Professional Memberships
+
+- UK Evaluation Society
+- Social Research Association
+
+## References
+
+Available upon request.

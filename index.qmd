@@ -1,0 +1,49 @@
+---
+title: "Rocío (Ro) Méndez Pineda"
+image: profile.jpg
+about:
+  template: trestles
+  image-shape: round
+  image-width: 12em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:Rocio.mendez.19@ucl.ac.uk
+    - icon: github
+      text: GitHub
+      href: https://github.com/rmendezpi
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/roc%C3%ADo-m%C3%A9ndez-pineda/?originalSubdomain=uk
+    - text: ORCID
+      href: https://orcid.org/0000-0002-0745-3358
+---
+
+## About Me
+
+I am a final-year PhD candidate at UCL's Social Research Institute. My research focuses on evaluating social policies using advanced quantitative methods, administrative data, and mixed methods approaches to improve outcomes for children and young people.
+
+My work has contributed to current UK parliamentary legislation, including evidence supporting the Children's School and Wellbeing Bill and Working Together 2025.
+
+## Research Interests
+
+- Policy evaluation and causal inference
+- Child welfare and safeguarding
+- Administrative data linkage (ECHILD)
+- Quasi-experimental methods
+
+## Education
+
+**PhD Social Science** | University College London | Expected 2026
+
+**MSc Social Research Methods** | University College London | 2021 | Distinction
+
+**MSc Public Policy** | Distinction
+
+**BSc Economics** 
+
+## News
+
+- **November 2025**: Started as Research Assistant at UCL Division of Psychiatry and Centre for Longitudinal Studies for UCL Grand Challenges
+- **June 2025**: Policy report on Multi-Agency Safeguarding Hubs published by Foundations
+- **July 2025**: Attended Cambridge Econometrics Summer School (TWFE, DiD, ML for Causal Inference)
