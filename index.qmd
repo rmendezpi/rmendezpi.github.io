@@ -1,6 +1,6 @@
 ---
 title: "Rocío (Ro) Méndez Pineda"
-image: profile.jpg
+image: profile.jpeg
 about:
   template: trestles
   image-shape: round
