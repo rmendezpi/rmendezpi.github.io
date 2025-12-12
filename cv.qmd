@@ -32,11 +32,11 @@ Final-year PhD candidate at UCL's Social Research Institute with 4+ years' exper
 
 ## Research Experience
 
-**Research Fellow** | UCL Division of Psychiatry and Centre for Longitudinal Studies | November 2025 – Present
+**Research Fellow (PT)** | UCL Division of Psychiatry and Centre for Longitudinal Studies | November 2025 – Present
 
 - ECHILD website data management using RStudio and GitHub
 
-**Research Assistant** | UCL Division of Psychiatry and Centre for Longitudinal Studies | October 2025 – Present
+**Research Assistant (PT)** | UCL Division of Psychiatry and Centre for Longitudinal Studies | October 2025 – Present
 
 - Prepared statistical analysis plan to evaluate educational policy on LGBTQ+ young people's mental health outcomes
 - Applying quasi-experimental methods for causal inference (Difference-in-Differences, Interrupted Time Series, Two-Way Fixed Effects)
