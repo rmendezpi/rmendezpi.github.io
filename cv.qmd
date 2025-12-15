@@ -14,9 +14,9 @@ Final-year PhD candidate at UCL's Social Research Institute with 4+ years' exper
 
 ## Education
 
-**PhD Social Science** | University College London | 2021 – Present (Expected early 2026)
+**PhD Quantitative Social Science** | University College London | 2021 – Present (Expected early 2026)
 
-- Thesis: "The Limits of Retrospective Evaluation: Lessons from Multi-Agency Front Door Services for Future Complex Intervention Research in England"
+- Thesis: "An Evaluation of Multi-Agency Front Doors in England"
 - Advanced training: Cambridge Econometrics Summer School (2025) – TWFE, DiD, Machine Learning for Causal Inference
 - Additional training: CEMMAP Policy Evaluation, Hospital Episode Statistics, ONS Administrative Data
 
@@ -66,7 +66,7 @@ Final-year PhD candidate at UCL's Social Research Institute with 4+ years' exper
 **Seminar Leader** | UCL Social Research Institute | 2022 – Present
 
 - Advanced Quantitative Methods (MSc): Teaching multilevel modelling using STATA and R
-- Introduction to Regression Analysis/Foundations of Data Science (MSc): Linear, logistic, and multinomial regression
+- Introduction to Regression Analysis/Foundations of Data Science (MSc): Regression analysis
 - R Coding Therapy Sessions (BSc): Led weekly problem-solving sessions supporting 30+ dissertation students
 
 ---
