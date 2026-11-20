@@ -8,13 +8,13 @@ title: "Curriculum Vitae"
 
 ## Professional Summary
 
-Quantitative social scientist using national linked administrative data to evaluate social policy and children's services, and to study inequalities in children's and young people's mental health and access to care. Combines quasi-experimental and multilevel methods with qualitative work, evidence reviews and co-production with young people and parents. Research lead on a Department for Education commissioned evaluation that contributed evidence to the Children's Wellbeing and Schools Act 2026.
+Quantitative social scientist using national linked administrative data to understand inequalities in children's and young people's mental health and access to mental health services. Combines multilevel and quasi-experimental methods with qualitative work, evidence reviews and co-production with young people and parents. Background in the evaluation of children's services and social policy.
 
 ---
 
 ## Research Appointments
 
-**Research Fellow** | UCL Great Ormond Street Institute of Child Health, Population, Policy and Practice | November 2025 to present
+**Research Fellow in Epidemiology and Statistics** | UCL Great Ormond Street Institute of Child Health, Population, Policy and Practice | November 2025 to present
 
 *NIHR Children and Families Policy Research Unit; Population Health Improvement UK (PHI-UK)*
 
@@ -24,6 +24,7 @@ Quantitative social scientist using national linked administrative data to evalu
 - Contributed ECHILD analyses to the research for the Independent Review into Mental Health Conditions, ADHD and Autism (final report October 2026)
 - Led the post-peer-review revision of a national ECHILD cohort study of 5.6 million pupils (*BMJ Public Health*, in press)
 - Maintain the ECHILD study website (R, GitHub) and contribute to the ECHILD User Guide and data catalogue
+- Designed and ran a survey of ECHILD data users to inform the team's work with NHS clinical coders
 
 **Research Assistant (part-time)** | UCL Division of Psychiatry and Centre for Longitudinal Studies | September 2025 to 2026
 
@@ -103,7 +104,8 @@ Seven peer-reviewed articles, a pre-print and three policy reports. The full lis
 
 ## Talks and Policy Engagement
 
-- Intersectional Inequalities symposium, York (November 2026): early findings from the MAIHDA analysis of mental health referrals
+- Upcoming: Population Mental Health Consortium Spotlight Session (January 2027), on our ECHILD work and public trust in the use of linked records
+- Inequalities and Social Justice symposium, York (November 2026): early findings from the MAIHDA analysis of mental health referrals
 - Health Equity Special Interest Group (November 2026): reflective session on epistemic injustice in research with culturally and linguistically diverse populations
 - Invited speaker, ADR England Community Catalyst webinar series (November 2026): evaluation using children's social care data
 - Oral presentation, International Population Data Linkage Network conference, Rotterdam (July 2026)
@@ -118,13 +120,14 @@ Seven peer-reviewed articles, a pre-print and three policy reports. The full lis
 ## Teaching and Supervision
 
 - **Module co-lead, Adolescent Health Medicine (CHLD0072)**, UCL Great Ormond Street Institute of Child Health (2026/27)
-- **Introduction to ECHILD course**, UCL Great Ormond Street Institute of Child Health (2026): co-delivered sessions on phenotyping and on analysing cohort data, including time-to-event methods, for researchers using linked data
+- **Introduction to ECHILD course**, UCL Great Ormond Street Institute of Child Health (2026): co-delivered sessions on phenotyping and on analysing cohort data, including time-to-event methods, for researchers using linked data; sessions for the online course (autumn 2026)
+- **Introduction to Hospital Episode Statistics course**, UCL (November 2026): one session
 - **Seminar leader**, UCL Social Research Institute (2022 to 2026): Advanced Quantitative Methods and Introduction to Regression Analysis (MSc); Social Change in Contemporary Society (BSc); taught in R and Stata
 - **R Coding Therapy**, UCL Social Research Institute (2022 to 2023): weekly drop-in clinic for BSc dissertation students
 - **Module leader, Statistical Inference**, Universidad Diego Portales, Chile (2018): design, delivery and assessment for 50 undergraduates
 - Teaching assistant, Universidad de Chile (2016 to 2019); online instructor, UN Food and Agriculture Organization (2017, 2019, 2020)
 - Ten master's dissertations supervised to completion, Universidad de Chile
-- Personal tutor to two MSc Child and Adolescent Mental Health students, UCL
+- Personal tutor to two MSc Child and Adolescent Mental Health students, UCL; MSc dissertation supervision (2026/27)
 
 ---
 
@@ -138,7 +141,7 @@ Seven peer-reviewed articles, a pre-print and three policy reports. The full lis
 
 **Data Access**: ONS Approved Researcher (since 2021), ONS Secure Research Service, UK Data Service special licence, UCL Data Safe Haven
 
-**Selected Training**: Bayesian Statistics, UCL (2026); evaluation methods with administrative data, ADR UK (2026); Cambridge Econometrics Summer School (2025); CEMMAP Policy Evaluation Methods (2023); Survival Analysis, Scottish Longitudinal Study (2023)
+**Selected Training**: UCL Arena programme for postdoctoral researchers, on teaching and supervision (2026); inclusive study design workshop, Cancer Research UK and Data Science for Health Equity (2026); Bayesian Statistics, UCL (2026); evaluation methods with administrative data, ADR UK (2026); Cambridge Econometrics Summer School (2025); CEMMAP Policy Evaluation Methods (2023); Survival Analysis, Scottish Longitudinal Study (2023)
 
 **Languages**: English and Spanish (native fluency); Italian (basic)
 
@@ -146,11 +149,11 @@ Seven peer-reviewed articles, a pre-print and three policy reports. The full lis
 
 ## Service and Memberships
 
-- Early Career Researcher Representative, UCL Great Ormond Street Institute of Child Health Race Equity Group (2026 to present)
+- Early Career Researcher Representative, UCL Great Ormond Street Institute of Child Health Race Equity Group (2026 to present); led the development of the group's web resource on frameworks for inclusive research
 - Peer reviewer: *British Journal of Social Work*, *BMJ Public Health*
 - Organiser, UCL Social Research Institute PhD seminar series (2021 to 2026)
 - Volunteer translator for the Independent Workers' Union of Great Britain at UCL (2024 to 2025)
-- Member: UK Evaluation Society, Social Research Association, Child Health Informatics Group
+- Member: Population Mental Health Consortium Early and Mid Career Researcher team; ICH Statistics and Methods; Child Health Informatics Group; UK Evaluation Society; Social Research Association
 
 ## References
 

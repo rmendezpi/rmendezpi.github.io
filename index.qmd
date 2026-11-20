@@ -1,6 +1,6 @@
 ---
 title: "Dr Rocío (Ro) Méndez Pineda"
-subtitle: "Research Fellow, UCL Great Ormond Street Institute of Child Health"
+subtitle: "Research Fellow in Epidemiology and Statistics, UCL Great Ormond Street Institute of Child Health"
 image: profile.jpeg
 about:
   template: trestles
@@ -22,7 +22,7 @@ about:
 
 ## About Me
 
-I am a Research Fellow at UCL Great Ormond Street Institute of Child Health, working in Population Health Improvement UK and the NIHR Children and Families Policy Research Unit. I use national linked administrative data, mainly [ECHILD](https://www.echild.ac.uk/), to evaluate services for children and to study inequalities in young people's access to mental health care.
+I am a Research Fellow in Epidemiology and Statistics at UCL Great Ormond Street Institute of Child Health, working in Population Health Improvement UK and the NIHR Children and Families Policy Research Unit. I use national linked administrative data, mainly [ECHILD](https://www.echild.ac.uk/), to understand inequalities in young people's access to mental health services.
 
 I completed my PhD at the UCL Social Research Institute in 2026. It evaluated Multi-Agency Safeguarding Hubs and other multi-agency front door services in children's social care across England. I was research lead on the [Evaluation of Multi-Agency Safeguarding Hubs](https://foundations.org.uk/wp-content/uploads/2025/06/evaluation-of-multi-agency-safeguarding-hubs.pdf), commissioned by the Department for Education. It contributed evidence to the Children's Wellbeing and Schools Act 2026 and was cited in the Sara Sharif Child Safeguarding Practice Review.
 
@@ -30,10 +30,10 @@ I have taught quantitative methods at UCL since 2022 and teach on the Introducti
 
 ## Research Interests
 
-- Evaluating children's services and child protection, including multi-agency safeguarding hubs
 - Inequalities in referral and access to NHS mental health services for children and young people
 - Intersectional inequalities, using multilevel analysis of individual heterogeneity and discriminatory accuracy (MAIHDA)
 - Linked administrative data across health, education and social care (ECHILD)
+- Children's services and child protection, including multi-agency safeguarding hubs
 - Quasi-experimental methods: difference-in-differences, synthetic controls, interrupted time series
 - Reproducible research in R and Quarto
 
@@ -49,7 +49,7 @@ I have taught quantitative methods at UCL since 2022 and teach on the Introducti
 
 ## News
 
-- **November 2026**: Talk at the Intersectional Inequalities symposium in York, on early findings on inequalities in mental health referrals.
+- **November 2026**: Talk at the Inequalities and Social Justice symposium in York, on early findings on inequalities in mental health referrals.
 - **November 2026**: Invited speaker in the ADR England Community Catalyst webinar series, on evaluation using children's social care data.
 - **October 2026**: The [final report](https://www.gov.uk/government/publications/independent-review-into-mental-health-conditions-adhd-and-autism-final-report) of the Independent Review into Mental Health Conditions, ADHD and Autism was published. I contributed to the research behind it through analyses of ECHILD data.
 - **July 2026**: Presented the evaluation of Multi-Agency Safeguarding Hubs at the International Population Data Linkage Network conference in Rotterdam.
@@ -57,5 +57,5 @@ I have taught quantitative methods at UCL since 2022 and teach on the Introducti
 - **March 2026**: Completed my PhD and moved to full time as Research Fellow at UCL Great Ormond Street Institute of Child Health.
 - **March 2026**: [New paper](https://doi.org/10.1093/bjsw/bcag017) in the *British Journal of Social Work* on responsible uses of administrative data in evaluating children's social care.
 - **January 2026**: [New paper](https://doi.org/10.1007/s10389-025-02632-9) in the *Journal of Public Health* on adopting a digital tool to measure child development at the 2–2½ year review.
-- **November 2025**: Started as Research Fellow at UCL Great Ormond Street Institute of Child Health.
+- **November 2025**: Started as Research Fellow in Epidemiology and Statistics at UCL Great Ormond Street Institute of Child Health.
 - **June 2025**: [Evaluation report on Multi-Agency Safeguarding Hubs](https://foundations.org.uk/wp-content/uploads/2025/06/evaluation-of-multi-agency-safeguarding-hubs.pdf) published by Foundations.

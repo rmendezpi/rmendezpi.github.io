@@ -2,27 +2,17 @@
 title: "Research"
 ---
 
-My research focuses on evaluating social policies to improve outcomes for children and young people, with expertise in quasi-experimental methods, administrative data analysis, and mixed methods approaches.
+I use national linked administrative data to understand inequalities in children's and young people's mental health and their access to mental health services. I combine multilevel and quasi-experimental methods with qualitative work, evidence reviews and co-production with young people and parents. My earlier work, including my PhD, evaluated children's services and social policy.
 
 ---
 
-## Working Papers & Pre-Prints
+## Current Work
 
-### Multi-agency front door services within children's social care in England: A scoping review and national survey
+**Inequalities in referrals to NHS mental health services.** A two-paper programme applying intersectional MAIHDA (multilevel analysis of individual heterogeneity and discriminatory accuracy) to referrals of school pupils in England, using the National Pupil Database linked to the Mental Health Services Data Set in ECHILD. This is part of the Population Mental Health Consortium (Population Health Improvement UK), where I am research lead for the challenge area on children and young people's mental health. The analysis compares referral across groups defined by ethnicity, gender, free school meal eligibility and English as an additional language. Workshops with young people, facilitated by Leaders Unlocked, showed that where they live matters to them, so the analysis now includes an urban and rural dimension. We plan to write part of the first paper with young people from the workshops, so that their perspective appears in their own words.
 
-**Méndez Pineda R**, Grant C, Blythe F, Harron K & Woodman J (2025)
+**Relationships and Sex Education and young people's mental health.** A quasi-experimental evaluation of statutory Relationships and Sex Education and mental health inequality between sexual minority and heterosexual adolescents, using the UK Household Longitudinal Study. Paper in preparation.
 
-This paper presents findings from a scoping review and the first comprehensive national survey of Multi-Agency Safeguarding Hubs (MASH) in England, mapping implementation across 111 of 152 Local Authorities.
-
-[Pre-Print](https://doi.org/10.17605/OSF.IO/EXRZA)
-
----
-
-### A qualitative study of stakeholder perspectives on adopting a digital tool to measure child development at the 2-2½ year review in England
-
-Lysons JL, **Méndez Pineda R**, Aquino MRJ, Cann H, Fearon P, Kendall S, et al. (2025)
-
-[Pre-Print](https://www.medrxiv.org/content/10.1101/2025.07.01.25330617v1)
+**Multi-agency front doors in children's social care.** Two papers from my PhD are in preparation: the quasi-experimental evaluation, and a method for dating policy implementation by text mining Ofsted reports.
 
 ---
 
@@ -30,40 +20,63 @@ Lysons JL, **Méndez Pineda R**, Aquino MRJ, Cann H, Fearon P, Kendall S, et al.
 
 ### Peer-Reviewed Articles
 
+Lewis KM, Dale H, Lewer D, **Méndez Pineda R**, Downs J, Blackburn RM. (In press). Disparities in adolescent mental health-related National Health Service presentations in England: secondary school cohort study. *BMJ Public Health*.
+
+Holmes L, Hood R, McGrath-Lone L, **Méndez Pineda R**, Park J, Scourfield J, Soraghan J, Woodman J. (2026). Just because we can does not mean we should: responsible and meaningful uses of administrative data in the evaluation of complex interventions in children's social care. *British Journal of Social Work*, 56(5), 2378–2398. [Link](https://doi.org/10.1093/bjsw/bcag017)
+
+Lysons JL, **Méndez Pineda R**, Aquino MRJ, Cann H, Fearon P, Kendall S, et al. (2026). A qualitative study of stakeholder perspectives on adopting a digital tool to measure child development at the 2–2½ year review in England. *Journal of Public Health*. [Link](https://doi.org/10.1007/s10389-025-02632-9)
+
 Lysons JL, **Méndez Pineda R**, et al. (2024). What do parents, professionals and policy colleagues want from a universal assessment of child development? *BMJ Open*, 14(12):e091080. [Link](https://bmjopen.bmj.com/content/bmjopen/14/12/e091080.full.pdf)
 
-Woodman J, Holmes L, Hood R, Scourfield J, Soraghan J, Park J, McGrath-Lone L, **Méndez Pineda R**. (2025, In press). Just because we can, doesn't mean we should: responsible uses of administrative data in children's social care evaluation. *British Journal of Social Work*.
+Apablaza M, Sehnbruch K, González P, **Méndez Pineda R**. (2022). Regional inequality in multidimensional quality of employment: insights from Chile, 1996–2017. *Regional Studies*, 57(3), 416–433. [Link](https://doi.org/10.1080/00343404.2022.2093341)
 
-Apablaza M, Sehnbruch K, González P, & **Méndez Pineda R**. (2022). Regional inequality in multidimensional quality of employment: insights from Chile, 1996–2017. *Regional Studies*, 57(3), 416–433. [Link](https://doi.org/10.1080/00343404.2022.2093341)
-
-González P, Sehnbruch K, Apablaza M, **Méndez Pineda R**, Arriagada V. (2021). A Multidimensional Approach to Measuring Quality of Employment (QoE) Deprivation in Six Central American Countries. *Social Indicators Research* 158, 107–141. [Link](https://doi.org/10.1007/s11205-021-02648-0)
+González P, Sehnbruch K, Apablaza M, **Méndez Pineda R**, Arriagada V. (2021). A Multidimensional Approach to Measuring Quality of Employment (QoE) Deprivation in Six Central American Countries. *Social Indicators Research*, 158, 107–141. [Link](https://doi.org/10.1007/s11205-021-02648-0)
 
 Sehnbruch K, González P, Apablaza M, **Méndez R**, Arriagada V. (2020). The Quality of Employment in nine Latin American countries. *World Development*, 127, 104738. [Link](https://doi.org/10.1016/j.worlddev.2019.104738)
+
+### In Preparation
+
+**Méndez Pineda R**, Pabla I (joint first authors), Tabor E, Wang Y, Patalay P, Lewis G. Evaluation of compulsory Relationships and Sex Education and mental health inequality between sexual minority and heterosexual youth in England.
+
+**Méndez Pineda R**, Dearden L. A quasi-experimental evaluation of multi-agency front doors in England.
+
+**Méndez Pineda R**, Harron K, Woodman J. Identifying an implementation date for evaluation: web scraping and text-mining England's Ofsted reports.
+
+### Pre-Prints and Conference Abstracts
+
+**Méndez Pineda R**, Grant C, Blythe F, Harron K, Woodman J. (2025). Multi-agency front door services within children's social care in England: a scoping review and national survey. OSF Preprints. [Pre-Print](https://doi.org/10.17605/OSF.IO/EXRZA)
+
+**Méndez Pineda R**. (2026). Evaluation of multi-agency safeguarding hubs. Conference abstract, *International Journal of Population Data Science*.
 
 ---
 
 ## Policy Reports
 
-**Méndez Pineda R**, Woodman J, et al. (2025). Evaluation of Multi-Agency Safeguarding Hubs. London: Foundations. *Contributing evidence to Children's School and Wellbeing Bill and Working Together 2025. Commissioned by Department for Education.* [Link](https://foundations.org.uk/wp-content/uploads/2025/06/evaluation-of-multi-agency-safeguarding-hubs.pdf)
+**Méndez Pineda R**, Woodman J, et al. (2025). Evaluation of Multi-Agency Safeguarding Hubs. London: Foundations. *Commissioned by the Department for Education. Contributed evidence to the Children's Wellbeing and Schools Act 2026 and cited in the Sara Sharif Child Safeguarding Practice Review.* [Link](https://foundations.org.uk/wp-content/uploads/2025/06/evaluation-of-multi-agency-safeguarding-hubs.pdf)
 
-Lysons J, **Méndez Pineda R**, Woodman J, et al. (2023). Measuring child development at the 2-2½ year health and development review. NIHR Policy Research Unit & UCL. *Commissioned by Department of Health and Social Care.* [Link](https://www.ucl.ac.uk/children-policy-research/sites/children_policy_research/files/asq_final_report_fin.pdf)
+Lysons J, **Méndez Pineda R**, Woodman J, et al. (2023). Measuring child development at the 2-2½ year health and development review. NIHR Policy Research Unit & UCL. *Commissioned by the Department of Health and Social Care.* [Link](https://www.ucl.ac.uk/children-policy-research/sites/children_policy_research/files/asq_final_report_fin.pdf)
+
+Sehnbruch K, **Méndez Pineda R**, Atallah S. (2021). Multidimensional Quality of Employment Index in Egypt. Alternative Policy Solutions, American University in Cairo.
+
+I also contributed ECHILD analyses to the research for the [Independent Review into Mental Health Conditions, ADHD and Autism](https://www.gov.uk/government/publications/independent-review-into-mental-health-conditions-adhd-and-autism-final-report) (final report October 2026).
 
 ---
 
 ## PhD Research
 
-**Thesis**: "An Evaluation of Multi-Agency Front Door Services in England"
+**Thesis**: "An Evaluation of Multi-Agency Front Door Services in England" (UCL Social Research Institute, 2026)
 
-My doctoral research examines the implementation and effectiveness of Multi-Agency Front Door Services (MAFDs) across England using:
+Supervised by Professor Lorraine Dearden, Professor Katie Harron and Professor Jenny Woodman. ESRC UBEL Doctoral Training Partnership studentship, co-funded by Foundations.
 
-- **ECHILD**: Linked administrative data including National Pupil Database and Hospital Episode Statistics (2008-2022)
-- **National survey**: Designed and deployed via REDCap with 73% response rate (111/152 Local Authorities)
-- **Text mining**: Web scraped and analysed 3,000+ Ofsted reports (2004-2023) to identify MAFDs implementation dates
-- **Quasi-experimental methods**: Difference-in-Differences, Synthetic controls
+My doctoral research examined the implementation and effectiveness of Multi-Agency Front Door Services (MAFDs) across England using:
+
+- **ECHILD**: Linked administrative data from the Children in Need census, National Pupil Database and Hospital Episode Statistics (2008 to 2022), covering about 2.7 million first referrals to children's social care
+- **National survey**: Designed and fielded in REDCap to all 152 English local authorities, with a 73% response rate (111 of 152)
+- **Text mining**: Web scraped and analysed 3,000+ Ofsted reports to date the implementation of MAFDs in each local authority
+- **Quasi-experimental methods**: Difference-in-differences under staggered adoption, event studies and synthetic controls
 
 ---
 
-## Work in Progress
+## Earlier Work
 
-- Evaluating educational policy impacts on LGBTQ+ young people's mental health outcomes using quasi-experimental methods
-- ECHILD website development and data management
+Before my PhD I worked on the multidimensional measurement of job quality and regional inequality in Latin America, Egypt and the EU, at the LSE International Inequalities Institute and Universidad de Chile. That work still shapes how I think about measurement and cross-national comparison.
