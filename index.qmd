@@ -22,9 +22,9 @@ about:
 
 ## About Me
 
-I am a Research Fellow in Epidemiology and Statistics at UCL Great Ormond Street Institute of Child Health, working in Population Health Improvement UK and the NIHR Children and Families Policy Research Unit. I use national linked administrative data, mainly [ECHILD](https://www.echild.ac.uk/), to understand inequalities in young people's access to mental health services.
+I am a Research Fellow in Epidemiology and Statistics at UCL Great Ormond Street Institute of Child Health, working in Population Health Improvement UK and the NIHR Children and Families Policy Research Unit. I use national linked administrative data, [ECHILD](https://www.echild.ac.uk/), to understand inequalities in young people's access to mental health services.
 
-I completed my PhD at the UCL Social Research Institute in 2026. It evaluated Multi-Agency Safeguarding Hubs and other multi-agency front door services in children's social care across England. I was research lead on the [Evaluation of Multi-Agency Safeguarding Hubs](https://foundations.org.uk/wp-content/uploads/2025/06/evaluation-of-multi-agency-safeguarding-hubs.pdf), commissioned by the Department for Education. It contributed evidence to the Children's Wellbeing and Schools Act 2026 and was cited in the Sara Sharif Child Safeguarding Practice Review.
+I completed my PhD at the UCL Social Research Institute in 2026. It [evaluated Multi-Agency Safeguarding Hubs and other multi-agency front door services in children's social care across England](https://discovery.ucl.ac.uk/id/eprint/10223470/). I was research lead on the [Evaluation of Multi-Agency Safeguarding Hubs](https://foundations.org.uk/wp-content/uploads/2025/06/evaluation-of-multi-agency-safeguarding-hubs.pdf), commissioned by the Department for Education. It contributed evidence to the Children's Wellbeing and Schools Act 2026 and was cited in the Sara Sharif Child Safeguarding Practice Review.
 
 I have taught quantitative methods at UCL since 2022 and teach on the Introduction to ECHILD course for researchers using linked data. Before moving into child health and social care, I worked on the measurement of job quality in Latin America and the EU.
 
@@ -35,7 +35,7 @@ I have taught quantitative methods at UCL since 2022 and teach on the Introducti
 - Linked administrative data across health, education and social care (ECHILD)
 - Children's services and child protection, including multi-agency safeguarding hubs
 - Quasi-experimental methods: difference-in-differences, synthetic controls, interrupted time series
-- Reproducible research in R and Quarto
+
 
 ## Education
 
@@ -52,6 +52,7 @@ I have taught quantitative methods at UCL since 2022 and teach on the Introducti
 - **November 2026**: Talk at the Inequalities and Social Justice symposium in York, on early findings on inequalities in mental health referrals.
 - **November 2026**: Invited speaker in the ADR England Community Catalyst webinar series, on evaluation using children's social care data.
 - **October 2026**: The [final report](https://www.gov.uk/government/publications/independent-review-into-mental-health-conditions-adhd-and-autism-final-report) of the Independent Review into Mental Health Conditions, ADHD and Autism was published. I contributed to the research behind it through analyses of ECHILD data.
+- **November 2026**: [New paper](https://doi.org/10.1136/bmjph-2025-004281) in *BMJ Public Health* on disparities in adolescent mental health-related NHS presentations in England, a cohort study of 5.6 million secondary school pupils.
 - **July 2026**: Presented the evaluation of Multi-Agency Safeguarding Hubs at the International Population Data Linkage Network conference in Rotterdam.
 - **April and July 2026**: Co-designed two workshops with young people, facilitated by Leaders Unlocked, on inequalities in access to mental health services.
 - **March 2026**: Completed my PhD and moved to full time as Research Fellow at UCL Great Ormond Street Institute of Child Health.

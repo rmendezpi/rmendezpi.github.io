@@ -11,14 +11,14 @@
     "href": "cv.html#professional-summary",
     "title": "Curriculum Vitae",
     "section": "Professional Summary",
-    "text": "Professional Summary\nFinal-year PhD candidate at UCL’s Social Research Institute with 4+ years’ experience evaluating social policies using advanced quantitative methods, administrative data, and mixed methods approaches. Published researcher with a track record of translating complex statistical analyses into policy-relevant outputs and integrating qualitative insights, including evidence contributing to current UK parliamentary legislation. Expert in causal inference, quasi-experimental design, and secure data management across ONS and UCL platforms."
+    "text": "Professional Summary\nQuantitative social scientist using national linked administrative data to understand inequalities in children’s and young people’s mental health and access to mental health services. Combines multilevel and quasi-experimental methods with qualitative work, evidence reviews and co-production with young people and parents. Background in the evaluation of children’s services and social policy."
   },
   {
     "objectID": "cv.html#education",
     "href": "cv.html#education",
     "title": "Curriculum Vitae",
     "section": "Education",
-    "text": "Education\nPhD Quantitative Social Science | University College London | 2021 – Present (Expected early 2026)\n\nThesis: “An Evaluation of Multi-Agency Front Doors in England”\nAdvanced training: Cambridge Econometrics Summer School (2025) – TWFE, DiD, Machine Learning for Causal Inference\nAdditional training: CEMMAP Policy Evaluation, Hospital Episode Statistics, ONS Administrative Data\n\nMSc Social Research Methods | University College London | 2019 – 2021 | Distinction\n\nModules: Advanced Quantitative Methods, Regression Analysis, Impact Evaluation, Systematic Reviews\n\nMSc Public Policy | Universidad de Chile | 2014 – 2016 | Distinction\nBSc Economics | Escuela Superior de Economía y Negocios (ESEN), El Salvador | 2008 – 2012"
+    "text": "Education\nPhD Quantitative Social Science | University College London, Social Research Institute | 2021 to 2026\n\nThesis: “An Evaluation of Multi-Agency Front Door Services in England”\nSupervisors: Professor Lorraine Dearden, Professor Katie Harron, Professor Jenny Woodman\nESRC UBEL Doctoral Training Partnership studentship, co-funded by Foundations\n\nMSc Social Research Methods | University College London | 2019 to 2021 | Distinction\nMSc Public Policy | Universidad de Chile | 2015 to 2016 | Distinction\nBSc Economics | Escuela Superior de Economía y Negocios (ESEN), El Salvador | 2008 to 2012"
   },
   {
     "objectID": "cv.html#research-experience",
@@ -46,7 +46,7 @@
     "href": "cv.html#technical-skills",
     "title": "Curriculum Vitae",
     "section": "Technical Skills",
-    "text": "Technical Skills\nStatistical Software: STATA (10+ years, teaching level), R/RStudio (4+ years, teaching level), NVivo, QGIS/ArcGIS, SQL, Python\nQuantitative Methods: Causal inference, quasi-experimental design, propensity score matching, instrumental variables, Two-Way Fixed Effects, multilevel modelling, panel data analysis, Difference-in-differences, synthetic controls, regression discontinuity\nQualitative Methods: Semi-structured interviews, focus group facilitation, thematic analysis, framework analysis, PPIE\nData Platforms: REDCap, UCL Data Safe Haven, ONS Secure Research Service, web scraping, text mining"
+    "text": "Technical Skills\nSoftware: R (5+ years, teaching level), Stata (11+ years, teaching level), Quarto, GitHub, REDCap, NVivo, QGIS/ArcGIS, SQL (basic), Python (developing)\nQuantitative Methods: Difference-in-differences (including staggered adoption), synthetic controls, interrupted time series, survival and person-time models, multilevel modelling and intersectional MAIHDA, Bayesian modelling in R-INLA, survey design, web scraping and text mining\nQualitative and Review Methods: Semi-structured interviews, focus groups, thematic and framework analysis, systematic and scoping reviews, public involvement and co-production\nData Access: ONS Approved Researcher (since 2021), ONS Secure Research Service, UK Data Service special licence, UCL Data Safe Haven\nSelected Training: UCL Arena programme for postdoctoral researchers, on teaching and supervision (2026); inclusive study design workshop, Cancer Research UK and Data Science for Health Equity (2026); Bayesian Statistics, UCL (2026); evaluation methods with administrative data, ADR UK (2026); Cambridge Econometrics Summer School (2025); CEMMAP Policy Evaluation Methods (2023); Survival Analysis, Scottish Longitudinal Study (2023)\nLanguages: English and Spanish (native fluency); Italian (basic)"
   },
   {
     "objectID": "cv.html#professional-memberships",
@@ -67,14 +67,14 @@
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "I am happy to discuss research, potential collaborations, or opportunities.\nEmail: rocio.mendez.19@ucl.ac.uk\nOffice: Social Research Institute\nInstitute of Education (IoE) UCL London, UK"
+    "text": "I am happy to discuss research, potential collaborations, or opportunities.\nEmail: r.mendez@ucl.ac.uk\nOffice: Population, Policy and Practice UCL Great Ormond Street Institute of Child Health 30 Guilford Street London WC1N 1EH, UK"
   },
   {
     "objectID": "contact.html#get-in-touch",
     "href": "contact.html#get-in-touch",
     "title": "Contact",
     "section": "",
-    "text": "I am happy to discuss research, potential collaborations, or opportunities.\nEmail: rocio.mendez.19@ucl.ac.uk\nOffice: Social Research Institute\nInstitute of Education (IoE) UCL London, UK"
+    "text": "I am happy to discuss research, potential collaborations, or opportunities.\nEmail: r.mendez@ucl.ac.uk\nOffice: Population, Policy and Practice UCL Great Ormond Street Institute of Child Health 30 Guilford Street London WC1N 1EH, UK"
   },
   {
     "objectID": "contact.html#office-hours",
@@ -95,7 +95,7 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "My research focuses on evaluating social policies to improve outcomes for children and young people, with expertise in quasi-experimental methods, administrative data analysis, and mixed methods approaches."
+    "text": "I use national linked administrative data to understand inequalities in children’s and young people’s mental health and their access to mental health services. I combine multilevel and quasi-experimental methods with qualitative work, evidence reviews and co-production with young people and parents. My earlier work, including my PhD, evaluated children’s services and social policy."
   },
   {
     "objectID": "research.html#working-papers-pre-prints",
@@ -109,21 +109,21 @@
     "href": "research.html#publications",
     "title": "Research",
     "section": "Publications",
-    "text": "Publications\n\nPeer-Reviewed Articles\nLysons JL, Méndez Pineda R, et al. (2024). What do parents, professionals and policy colleagues want from a universal assessment of child development? BMJ Open, 14(12):e091080. Link\nWoodman J, Holmes L, Hood R, Scourfield J, Soraghan J, Park J, McGrath-Lone L, Méndez Pineda R. (2025, In press). Just because we can, doesn’t mean we should: responsible uses of administrative data in children’s social care evaluation. British Journal of Social Work.\nApablaza M, Sehnbruch K, González P, & Méndez Pineda R. (2022). Regional inequality in multidimensional quality of employment: insights from Chile, 1996–2017. Regional Studies, 57(3), 416–433. Link\nGonzález P, Sehnbruch K, Apablaza M, Méndez Pineda R, Arriagada V. (2021). A Multidimensional Approach to Measuring Quality of Employment (QoE) Deprivation in Six Central American Countries. Social Indicators Research 158, 107–141. Link\nSehnbruch K, González P, Apablaza M, Méndez R, Arriagada V. (2020). The Quality of Employment in nine Latin American countries. World Development, 127, 104738. Link"
+    "text": "Publications\n\nPeer-Reviewed Articles\nLewis KM, Dale H, Lewer D, Méndez Pineda R, Downs J, Blackburn RM. (2026). Disparities in adolescent mental health-related National Health Service presentations in England: a secondary school cohort study. BMJ Public Health, 4:e004281. Link\nHolmes L, Hood R, McGrath-Lone L, Méndez Pineda R, Park J, Scourfield J, Soraghan J, Woodman J. (2026). Just because we can does not mean we should: responsible and meaningful uses of administrative data in the evaluation of complex interventions in children’s social care. British Journal of Social Work, 56(5), 2378–2398. Link\nLysons JL, Méndez Pineda R, Aquino MRJ, Cann H, Fearon P, Kendall S, et al. (2026). A qualitative study of stakeholder perspectives on adopting a digital tool to measure child development at the 2–2½ year review in England. Journal of Public Health. Link\nLysons JL, Méndez Pineda R, et al. (2024). What do parents, professionals and policy colleagues want from a universal assessment of child development? BMJ Open, 14(12):e091080. Link\nApablaza M, Sehnbruch K, González P, Méndez Pineda R. (2022). Regional inequality in multidimensional quality of employment: insights from Chile, 1996–2017. Regional Studies, 57(3), 416–433. Link\nGonzález P, Sehnbruch K, Apablaza M, Méndez Pineda R, Arriagada V. (2021). A Multidimensional Approach to Measuring Quality of Employment (QoE) Deprivation in Six Central American Countries. Social Indicators Research, 158, 107–141. Link\nSehnbruch K, González P, Apablaza M, Méndez R, Arriagada V. (2020). The Quality of Employment in nine Latin American countries. World Development, 127, 104738. Link\n\n\nIn Preparation\nMéndez Pineda R, Pabla I (joint first authors), Tabor E, Wang Y, Patalay P, Lewis G. Evaluation of compulsory Relationships and Sex Education and mental health inequality between sexual minority and heterosexual youth in England.\nMéndez Pineda R, Dearden L. A quasi-experimental evaluation of multi-agency front doors in England.\nMéndez Pineda R, Smiles C, Barrett S, Alderson H, McGovern R, Grant C, Woodman J. Risk assessment and needs assessment front doors: two models of multi-agency working at the entry point to children’s social care in England (working title).\n\n\nPre-Prints and Conference Abstracts\nMéndez Pineda R, Grant C, Blythe F, Harron K, Woodman J. (2025). Multi-agency front door services within children’s social care in England: a scoping review and national survey. OSF Preprints. Pre-Print\nMéndez Pineda R. (2026). Evaluation of multi-agency safeguarding hubs. Conference abstract, International Journal of Population Data Science."
   },
   {
     "objectID": "research.html#policy-reports",
     "href": "research.html#policy-reports",
     "title": "Research",
     "section": "Policy Reports",
-    "text": "Policy Reports\nMéndez Pineda R, Woodman J, et al. (2025). Evaluation of Multi-Agency Safeguarding Hubs. London: Foundations. Contributing evidence to Children’s School and Wellbeing Bill and Working Together 2025. Commissioned by Department for Education. Link\nLysons J, Méndez Pineda R, Woodman J, et al. (2023). Measuring child development at the 2-2½ year health and development review. NIHR Policy Research Unit & UCL. Commissioned by Department of Health and Social Care. Link"
+    "text": "Policy Reports\nMéndez Pineda R, Woodman J, et al. (2025). Evaluation of Multi-Agency Safeguarding Hubs. London: Foundations. Commissioned by the Department for Education. Contributed evidence to the Children’s Wellbeing and Schools Act 2026 and cited in the Sara Sharif Child Safeguarding Practice Review. Link\nLysons J, Méndez Pineda R, Woodman J, et al. (2023). Measuring child development at the 2-2½ year health and development review. NIHR Policy Research Unit & UCL. Commissioned by the Department of Health and Social Care. Link\nSehnbruch K, Méndez Pineda R, Atallah S. (2021). Multidimensional Quality of Employment Index in Egypt. Alternative Policy Solutions, American University in Cairo.\nI also contributed ECHILD analyses to the research for the Independent Review into Mental Health Conditions, ADHD and Autism (final report October 2026)."
   },
   {
     "objectID": "research.html#phd-research",
     "href": "research.html#phd-research",
     "title": "Research",
     "section": "PhD Research",
-    "text": "PhD Research\nThesis: “An Evaluation of Multi-Agency Front Door Services in England”\nMy doctoral research examines the implementation and effectiveness of Multi-Agency Front Door Services (MAFDs) across England using:\n\nECHILD: Linked administrative data including National Pupil Database and Hospital Episode Statistics (2008-2022)\nNational survey: Designed and deployed via REDCap with 73% response rate (111/152 Local Authorities)\nText mining: Web scraped and analysed 3,000+ Ofsted reports (2004-2023) to identify MAFDs implementation dates\nQuasi-experimental methods: Difference-in-Differences, Synthetic controls"
+    "text": "PhD Research\nThesis: “An Evaluation of Multi-Agency Front Door Services in England” (UCL Social Research Institute, 2026)\nSupervised by Professor Lorraine Dearden, Professor Katie Harron and Professor Jenny Woodman. ESRC UBEL Doctoral Training Partnership studentship, co-funded by Foundations.\nMy doctoral research examined the implementation and effectiveness of Multi-Agency Front Door Services (MAFDs) across England using:\n\nECHILD: Linked administrative data from the Children in Need census, National Pupil Database and Hospital Episode Statistics (2008 to 2022), covering about 2.7 million first referrals to children’s social care\nNational survey: Designed and fielded in REDCap to all 152 English local authorities, with a 73% response rate (111 of 152)\nText mining: Web scraped and analysed 3,000+ Ofsted reports to date the implementation of MAFDs in each local authority\nQuasi-experimental methods: Difference-in-differences under staggered adoption, event studies and synthetic controls"
   },
   {
     "objectID": "research.html#work-in-progress",
@@ -135,36 +135,92 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Rocío (Ro) Méndez Pineda",
+    "title": "Dr Rocío (Ro) Méndez Pineda",
     "section": "",
-    "text": "I am a final-year PhD candidate at UCL’s Social Research Institute. My research focuses on evaluating social policies using advanced quantitative methods, administrative data, and mixed methods approaches to improve outcomes for children and young people.\nMy work has contributed to current UK parliamentary legislation, by providing evidence supporting the Children’s School and Wellbeing Bill and Working Together."
+    "text": "I am a Research Fellow in Epidemiology and Statistics at UCL Great Ormond Street Institute of Child Health, working in Population Health Improvement UK and the NIHR Children and Families Policy Research Unit. I use national linked administrative data, ECHILD, to understand inequalities in young people’s access to mental health services.\nI completed my PhD at the UCL Social Research Institute in 2026. It evaluated Multi-Agency Safeguarding Hubs and other multi-agency front door services in children’s social care across England. I was research lead on the Evaluation of Multi-Agency Safeguarding Hubs, commissioned by the Department for Education. It contributed evidence to the Children’s Wellbeing and Schools Act 2026 and was cited in the Sara Sharif Child Safeguarding Practice Review.\nI have taught quantitative methods at UCL since 2022 and teach on the Introduction to ECHILD course for researchers using linked data. Before moving into child health and social care, I worked on the measurement of job quality in Latin America and the EU."
   },
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
-    "title": "Rocío (Ro) Méndez Pineda",
+    "title": "Dr Rocío (Ro) Méndez Pineda",
     "section": "",
-    "text": "I am a final-year PhD candidate at UCL’s Social Research Institute. My research focuses on evaluating social policies using advanced quantitative methods, administrative data, and mixed methods approaches to improve outcomes for children and young people.\nMy work has contributed to current UK parliamentary legislation, by providing evidence supporting the Children’s School and Wellbeing Bill and Working Together."
+    "text": "I am a Research Fellow in Epidemiology and Statistics at UCL Great Ormond Street Institute of Child Health, working in Population Health Improvement UK and the NIHR Children and Families Policy Research Unit. I use national linked administrative data, ECHILD, to understand inequalities in young people’s access to mental health services.\nI completed my PhD at the UCL Social Research Institute in 2026. It evaluated Multi-Agency Safeguarding Hubs and other multi-agency front door services in children’s social care across England. I was research lead on the Evaluation of Multi-Agency Safeguarding Hubs, commissioned by the Department for Education. It contributed evidence to the Children’s Wellbeing and Schools Act 2026 and was cited in the Sara Sharif Child Safeguarding Practice Review.\nI have taught quantitative methods at UCL since 2022 and teach on the Introduction to ECHILD course for researchers using linked data. Before moving into child health and social care, I worked on the measurement of job quality in Latin America and the EU."
   },
   {
     "objectID": "index.html#research-interests",
     "href": "index.html#research-interests",
-    "title": "Rocío (Ro) Méndez Pineda",
+    "title": "Dr Rocío (Ro) Méndez Pineda",
     "section": "Research Interests",
-    "text": "Research Interests\n\nPolicy evaluation and causal inference\nChild welfare and safeguarding\nAdministrative data use for research (ECHILD)\nQuasi-experimental methods"
+    "text": "Research Interests\n\nInequalities in referral and access to NHS mental health services for children and young people\nIntersectional inequalities, using multilevel analysis of individual heterogeneity and discriminatory accuracy (MAIHDA)\nLinked administrative data across health, education and social care (ECHILD)\nChildren’s services and child protection, including multi-agency safeguarding hubs\nQuasi-experimental methods: difference-in-differences, synthetic controls, interrupted time series"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
-    "title": "Rocío (Ro) Méndez Pineda",
+    "title": "Dr Rocío (Ro) Méndez Pineda",
     "section": "Education",
-    "text": "Education\nPhD Quantitative Social Science | University College London | Expected 2026\nMSc Social Research Methods | University College London | 2021 | Distinction\nMSc Public Policy | Distinction\nBSc Economics"
+    "text": "Education\nPhD Quantitative Social Science | University College London | 2026\nMSc Social Research Methods | University College London | 2021 | Distinction\nMSc Public Policy | Universidad de Chile | 2016 | Distinction\nBSc Economics | Escuela Superior de Economía y Negocios (ESEN), El Salvador | 2012"
   },
   {
     "objectID": "index.html#news",
     "href": "index.html#news",
-    "title": "Rocío (Ro) Méndez Pineda",
+    "title": "Dr Rocío (Ro) Méndez Pineda",
     "section": "News",
-    "text": "News\n\nNovember 2025: Started as Research Assistant at UCL Division of Psychiatry and Centre for Longitudinal Studies for UCL Grand Challenges\nJuly 2025: Attended Cambridge Econometrics Summer School (TWFE, DiD, ML for Causal Inference)\nJune 2025: Evaluation report on Multi-Agency Safeguarding Hubs published by Foundations"
+    "text": "News\n\nNovember 2026: Talk at the Inequalities and Social Justice symposium in York, on early findings on inequalities in mental health referrals.\nNovember 2026: Invited speaker in the ADR England Community Catalyst webinar series, on evaluation using children’s social care data.\nOctober 2026: The final report of the Independent Review into Mental Health Conditions, ADHD and Autism was published. I contributed to the research behind it through analyses of ECHILD data.\nNovember 2026: New paper in BMJ Public Health on disparities in adolescent mental health-related NHS presentations in England, a cohort study of 5.6 million secondary school pupils.\nJuly 2026: Presented the evaluation of Multi-Agency Safeguarding Hubs at the International Population Data Linkage Network conference in Rotterdam.\nApril and July 2026: Co-designed two workshops with young people, facilitated by Leaders Unlocked, on inequalities in access to mental health services.\nMarch 2026: Completed my PhD and moved to full time as Research Fellow at UCL Great Ormond Street Institute of Child Health.\nMarch 2026: New paper in the British Journal of Social Work on responsible uses of administrative data in evaluating children’s social care.\nJanuary 2026: New paper in the Journal of Public Health on adopting a digital tool to measure child development at the 2–2½ year review.\nNovember 2025: Started as Research Fellow in Epidemiology and Statistics at UCL Great Ormond Street Institute of Child Health.\nJune 2025: Evaluation report on Multi-Agency Safeguarding Hubs published by Foundations."
+  },
+  {
+    "objectID": "cv.html#research-appointments",
+    "href": "cv.html#research-appointments",
+    "title": "Curriculum Vitae",
+    "section": "Research Appointments",
+    "text": "Research Appointments\nResearch Fellow in Epidemiology and Statistics | UCL Great Ormond Street Institute of Child Health, Population, Policy and Practice | November 2025 to present\nPopulation Health Improvement UK (PHI-UK); NIHR Children and Families Policy Research Unit\n\nResearch lead for the challenge area on children and young people’s mental health in the Population Mental Health Consortium (PHI-UK)\nDesigning and leading a two-paper programme applying intersectional MAIHDA to referrals to NHS mental health services in England, using the National Pupil Database linked to the Mental Health Services Data Set\nLed the post-peer-review revision of a national ECHILD cohort study of 5.6 million pupils (BMJ Public Health, 2026)\nCo-designing workshops with young people, facilitated by Leaders Unlocked, on inequalities in access to mental health services\nContributed ECHILD analyses to the research for the Independent Review into Mental Health Conditions, ADHD and Autism (final report October 2026)\nLed the post-peer-review revision of a national ECHILD cohort study of 5.6 million pupils (BMJ Public Health, in press)\nMaintain the ECHILD study website (R, GitHub) and contribute to the ECHILD User Guide and data catalogue\nDesigned and ran a survey of ECHILD data users to inform the team’s work with NHS clinical coders\n\nResearch Assistant (part-time) | UCL Division of Psychiatry and Centre for Longitudinal Studies | September 2025 to 2026\nUCL Grand Challenges\n\nConducted the quantitative analysis for a quasi-experimental evaluation of statutory Relationships and Sex Education and mental health inequality between sexual minority and heterosexual adolescents, using the UK Household Longitudinal Study under special licence\nWrote the statistical analysis plan: difference-in-differences with event-study pre-trend tests, and a Bayesian interrupted time series in R-INLA\nCo-led a public involvement session with LGBTQ+ young people\nJoint first author of the resulting paper (in preparation)\n\nResearch Lead, Evaluation of Multi-Agency Safeguarding Hubs | Thomas Coram Research Unit, UCL Social Research Institute | February 2024 to September 2025\nCommissioned by the Department for Education through Foundations, the What Works Centre for Children and Families (£200,000)\n\nCo-wrote the funding application and led its submission\nLed a mixed-methods implementation and process evaluation, combining national survey analysis with case studies in three local authorities (about 40 interviews)\nRan public involvement work with parents with experience of children’s social care\nPresented quarterly to a cross-government steering committee (NHS England, DfE, DHSC, Home Office), led two DfE workshops and briefed the National Police Chiefs’ Council\nFirst author of the evaluation report (Foundations, 2025), which contributed evidence to the Children’s Wellbeing and Schools Act 2026 and was cited in the Sara Sharif Child Safeguarding Practice Review\n\nResearch Assistant (part-time) | UCL Great Ormond Street Institute of Child Health | August 2022 to February 2023\nChild Development Assessment Project, commissioned by the Department of Health and Social Care\n\nLed a rapid systematic review of child development assessment tools, from protocol to final report\nCo-authored the commissioned report (2023) and two journal articles (BMJ Open, 2024; Journal of Public Health, 2026)\n\nResearch Assistant | UCL Institute of Education | March to September 2021\n\nRegression analysis of educational outcomes for refugee children using Ugandan survey data\n\nResearch Assistant | International Inequalities Institute, LSE | September 2019 to September 2021\n\nHarmonised longitudinal survey data from nine countries for comparative research on job quality\nCo-authored three peer-reviewed articles (World Development, Social Indicators Research, Regional Studies)\n\nResearcher and Project Manager | Centre for Conflict Studies and Social Cohesion, Universidad de Chile | November 2016 to April 2019\n\nMicroeconometric analysis of employment quality in Latin America and the EU; financial administration and reporting for the projects\n\nJunior Researcher | FUSADES, El Salvador | June 2012 to April 2015\n\nAnalysis of household surveys, firm-level data and health administrative data on poverty, competitiveness, education and health spending"
+  },
+  {
+    "objectID": "cv.html#funding-and-awards",
+    "href": "cv.html#funding-and-awards",
+    "title": "Curriculum Vitae",
+    "section": "Funding and Awards",
+    "text": "Funding and Awards\n\nEvaluation of Multi-Agency Safeguarding Hubs, Department for Education through Foundations, £200,000 (2024 to 2025): research lead; co-wrote the application and led submission\nESRC UBEL Doctoral Training Partnership PhD studentship, co-funded by Foundations (2021 to 2025)\nChilean Government (AGCID) master’s scholarship (2015 to 2016)\nWinner, National Thesis Contest, Fundación Superación de la Pobreza, Chile (2016)"
+  },
+  {
+    "objectID": "cv.html#publications",
+    "href": "cv.html#publications",
+    "title": "Curriculum Vitae",
+    "section": "Publications",
+    "text": "Publications\nSeven peer-reviewed articles, a pre-print and three policy reports. The full list, with links, is on the Research page."
+  },
+  {
+    "objectID": "cv.html#talks-and-policy-engagement",
+    "href": "cv.html#talks-and-policy-engagement",
+    "title": "Curriculum Vitae",
+    "section": "Talks and Policy Engagement",
+    "text": "Talks and Policy Engagement\n\nUpcoming: Population Mental Health Consortium Spotlight Session (January 2027), on our ECHILD work and public trust in the use of linked records\nInequalities and Social Justice symposium, York (November 2026): early findings from the MAIHDA analysis of mental health referrals\nHealth Equity Special Interest Group (November 2026): reflective session on epistemic injustice in research with culturally and linguistically diverse populations\nInvited speaker, ADR England Community Catalyst webinar series (November 2026): evaluation using children’s social care data\nOral presentation, International Population Data Linkage Network conference, Rotterdam (July 2026)\nContributed to discussions on evaluation methods for Foundations, the What Works Centre for Children and Families\nCross-government steering committee for the evaluation of Multi-Agency Safeguarding Hubs: quarterly presentations (2024 to 2025)\nNational Police Chiefs’ Council: evidence briefing (June 2025)\nMulti-Agency Safeguarding Hub NHS Community of Practice (April 2025)\nDepartment for Education: led two workshops (March to April 2025)"
+  },
+  {
+    "objectID": "cv.html#teaching-and-supervision",
+    "href": "cv.html#teaching-and-supervision",
+    "title": "Curriculum Vitae",
+    "section": "Teaching and Supervision",
+    "text": "Teaching and Supervision\n\nModule co-lead, Adolescent Health Medicine (CHLD0072), UCL Great Ormond Street Institute of Child Health (2026/27)\nIntroduction to ECHILD course, UCL Great Ormond Street Institute of Child Health (2026): co-delivered sessions on phenotyping and on analysing cohort data, including time-to-event methods, for researchers using linked data; sessions for the online course (autumn 2026)\nIntroduction to Hospital Episode Statistics course, UCL (November 2026): one session\nSeminar leader, UCL Social Research Institute (2022 to 2026): Advanced Quantitative Methods and Introduction to Regression Analysis (MSc); Social Change in Contemporary Society (BSc); taught in R and Stata\nR Coding Therapy, UCL Social Research Institute (2022 to 2023): weekly drop-in clinic for BSc dissertation students\nModule leader, Statistical Inference, Universidad Diego Portales, Chile (2018): design, delivery and assessment for 50 undergraduates\nTeaching assistant, Universidad de Chile (2016 to 2019); online instructor, UN Food and Agriculture Organization (2017, 2019, 2020)\nTen master’s dissertations supervised to completion, Universidad de Chile\nPersonal tutor to two MSc Child and Adolescent Mental Health students, UCL; MSc dissertation supervision (2026/27)"
+  },
+  {
+    "objectID": "cv.html#service-and-memberships",
+    "href": "cv.html#service-and-memberships",
+    "title": "Curriculum Vitae",
+    "section": "Service and Memberships",
+    "text": "Service and Memberships\n\nEarly Career Researcher Representative, UCL Great Ormond Street Institute of Child Health Race Equity Group (2026 to present); led the development of the group’s web resource on frameworks for inclusive research\nPeer reviewer: British Journal of Social Work, BMJ Public Health\nOrganiser, UCL Social Research Institute PhD seminar series (2021 to 2026)\nVolunteer translator for the Independent Workers’ Union of Great Britain at UCL (2024 to 2025)\nMember: Population Mental Health Consortium Early and Mid Career Researcher team; ICH Statistics and Methods; Child Health Informatics Group; UK Evaluation Society; Social Research Association"
+  },
+  {
+    "objectID": "research.html#current-work",
+    "href": "research.html#current-work",
+    "title": "Research",
+    "section": "Current Work",
+    "text": "Current Work\nInequalities in referrals to NHS mental health services. A two-paper programme applying intersectional MAIHDA (multilevel analysis of individual heterogeneity and discriminatory accuracy) to referrals of school pupils in England, using the National Pupil Database linked to the Mental Health Services Data Set in ECHILD. This is part of the Population Mental Health Consortium (Population Health Improvement UK), where I am research lead for the challenge area on children and young people’s mental health. The analysis compares referral across groups defined by ethnicity, gender, free school meal eligibility and English as an additional language. Workshops with young people, facilitated by Leaders Unlocked, showed that where they live matters to them, so the analysis now includes an urban and rural dimension. We plan to write part of the first paper with young people from the workshops, so that their perspective appears in their own words.\nRelationships and Sex Education and young people’s mental health. A quasi-experimental evaluation of statutory Relationships and Sex Education and mental health inequality between sexual minority and heterosexual adolescents, using the UK Household Longitudinal Study. Paper in preparation.\nMulti-agency front doors in children’s social care. Two papers from my PhD are in preparation: the quasi-experimental evaluation, and a method for dating policy implementation by text mining Ofsted reports."
+  },
+  {
+    "objectID": "research.html#earlier-work",
+    "href": "research.html#earlier-work",
+    "title": "Research",
+    "section": "Earlier Work",
+    "text": "Earlier Work\nBefore my PhD I worked on the multidimensional measurement of job quality and regional inequality in Latin America, Egypt and the EU, at the LSE International Inequalities Institute and Universidad de Chile. That work still shapes how I think about measurement and cross-national comparison."
   }
 ]

@@ -20,7 +20,7 @@ I use national linked administrative data to understand inequalities in children
 
 ### Peer-Reviewed Articles
 
-Lewis KM, Dale H, Lewer D, **Méndez Pineda R**, Downs J, Blackburn RM. (In press). Disparities in adolescent mental health-related National Health Service presentations in England: secondary school cohort study. *BMJ Public Health*.
+Lewis KM, Dale H, Lewer D, **Méndez Pineda R**, Downs J, Blackburn RM. (2026). Disparities in adolescent mental health-related National Health Service presentations in England: a secondary school cohort study. *BMJ Public Health*, 4:e004281. [Link](https://doi.org/10.1136/bmjph-2025-004281)
 
 Holmes L, Hood R, McGrath-Lone L, **Méndez Pineda R**, Park J, Scourfield J, Soraghan J, Woodman J. (2026). Just because we can does not mean we should: responsible and meaningful uses of administrative data in the evaluation of complex interventions in children's social care. *British Journal of Social Work*, 56(5), 2378–2398. [Link](https://doi.org/10.1093/bjsw/bcag017)
 
@@ -40,7 +40,9 @@ Sehnbruch K, González P, Apablaza M, **Méndez R**, Arriagada V. (2020). The Qu
 
 **Méndez Pineda R**, Dearden L. A quasi-experimental evaluation of multi-agency front doors in England.
 
-**Méndez Pineda R**, Harron K, Woodman J. Identifying an implementation date for evaluation: web scraping and text-mining England's Ofsted reports.
+**Méndez Pineda R**, Smiles C, Barrett S, Alderson H, McGovern R, Grant C, Woodman J. Risk assessment and needs assessment front doors: two models of multi-agency working at the entry point to children's social care in England (working title).
+
+
 
 ### Pre-Prints and Conference Abstracts
 
