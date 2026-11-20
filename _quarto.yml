@@ -3,8 +3,8 @@ project:
   output-dir: docs
 
 website:
-  title: "Ro Mendez"
-  description: "PhD Candidate in Quantitative Social Science | UCL's Social Research Institute"
+  title: "Ro Méndez Pineda"
+  description: "Research Fellow, UCL Great Ormond Street Institute of Child Health"
   navbar:
     left:
       - href: index.qmd
@@ -17,15 +17,15 @@ website:
         text: Contact
     right:
       - icon: github
-        href: https://rmendezpi.github.io
+        href: https://github.com/rmendezpi
       - icon: envelope
-        href: mailto:rocio.mendez.19@ucl.ac.uk
+        href: mailto:r.mendez@ucl.ac.uk
   page-footer:
-    center: "© 2025 Ro Mendez"
+    center: "© 2026 Ro Méndez Pineda"
 
 format:
   html:
-    theme: 
+    theme:
       light: cosmo
     css: styles.css
     toc: true

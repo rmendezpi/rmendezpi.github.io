@@ -1,5 +1,6 @@
 ---
-title: "Rocío (Ro) Méndez Pineda"
+title: "Dr Rocío (Ro) Méndez Pineda"
+subtitle: "Research Fellow, UCL Great Ormond Street Institute of Child Health"
 image: profile.jpeg
 about:
   template: trestles
@@ -8,42 +9,53 @@ about:
   links:
     - icon: envelope
       text: Email
-      href: mailto:Rocio.mendez.19@ucl.ac.uk
+      href: mailto:r.mendez@ucl.ac.uk
     - icon: github
       text: GitHub
       href: https://github.com/rmendezpi
     - icon: linkedin
       text: LinkedIn
-      href: www.linkedin.com/in/rocio-mendez-pineda
+      href: https://www.linkedin.com/in/rocio-mendez-pineda
     - text: ORCID
       href: https://orcid.org/0000-0002-0745-3358
 ---
 
 ## About Me
 
-I am a final-year PhD candidate at UCL's Social Research Institute. My research focuses on evaluating social policies using advanced quantitative methods, administrative data, and mixed methods approaches to improve outcomes for children and young people.
+I am a Research Fellow at UCL Great Ormond Street Institute of Child Health, working in Population Health Improvement UK and the NIHR Children and Families Policy Research Unit. I use national linked administrative data, mainly [ECHILD](https://www.echild.ac.uk/), to evaluate services for children and to study inequalities in young people's access to mental health care.
 
-My work has contributed to current UK parliamentary legislation, by providing evidence supporting the Children's School and Wellbeing Bill and Working Together.
+I completed my PhD at the UCL Social Research Institute in 2026. It evaluated Multi-Agency Safeguarding Hubs and other multi-agency front door services in children's social care across England. I was research lead on the [Evaluation of Multi-Agency Safeguarding Hubs](https://foundations.org.uk/wp-content/uploads/2025/06/evaluation-of-multi-agency-safeguarding-hubs.pdf), commissioned by the Department for Education. It contributed evidence to the Children's Wellbeing and Schools Act 2026 and was cited in the Sara Sharif Child Safeguarding Practice Review.
+
+I have taught quantitative methods at UCL since 2022 and teach on the Introduction to ECHILD course for researchers using linked data. Before moving into child health and social care, I worked on the measurement of job quality in Latin America and the EU.
 
 ## Research Interests
 
-- Policy evaluation and causal inference
-- Child welfare and safeguarding
-- Administrative data use for research (ECHILD)
-- Quasi-experimental methods
+- Evaluating children's services and child protection, including multi-agency safeguarding hubs
+- Inequalities in referral and access to NHS mental health services for children and young people
+- Intersectional inequalities, using multilevel analysis of individual heterogeneity and discriminatory accuracy (MAIHDA)
+- Linked administrative data across health, education and social care (ECHILD)
+- Quasi-experimental methods: difference-in-differences, synthetic controls, interrupted time series
+- Reproducible research in R and Quarto
 
 ## Education
 
-**PhD Quantitative Social Science** | University College London | Expected 2026
+**PhD Quantitative Social Science** | University College London | 2026
 
 **MSc Social Research Methods** | University College London | 2021 | Distinction
 
-**MSc Public Policy** | Distinction
+**MSc Public Policy** | Universidad de Chile | 2016 | Distinction
 
-**BSc Economics** 
+**BSc Economics** | Escuela Superior de Economía y Negocios (ESEN), El Salvador | 2012
 
 ## News
 
-- **November 2025**: Started as Research Assistant at UCL Division of Psychiatry and Centre for Longitudinal Studies for UCL Grand Challenges
-- **July 2025**: Attended Cambridge Econometrics Summer School (TWFE, DiD, ML for Causal Inference)
-- **June 2025**: [Evaluation report on Multi-Agency Safeguarding Hubs](https://foundations.org.uk/wp-content/uploads/2025/06/evaluation-of-multi-agency-safeguarding-hubs.pdf) published by Foundations 
+- **November 2026**: Talk at the Intersectional Inequalities symposium in York, on early findings on inequalities in mental health referrals.
+- **November 2026**: Invited speaker in the ADR England Community Catalyst webinar series, on evaluation using children's social care data.
+- **October 2026**: The [final report](https://www.gov.uk/government/publications/independent-review-into-mental-health-conditions-adhd-and-autism-final-report) of the Independent Review into Mental Health Conditions, ADHD and Autism was published. I contributed to the research behind it through analyses of ECHILD data.
+- **July 2026**: Presented the evaluation of Multi-Agency Safeguarding Hubs at the International Population Data Linkage Network conference in Rotterdam.
+- **April and July 2026**: Co-designed two workshops with young people, facilitated by Leaders Unlocked, on inequalities in access to mental health services.
+- **March 2026**: Completed my PhD and moved to full time as Research Fellow at UCL Great Ormond Street Institute of Child Health.
+- **March 2026**: [New paper](https://doi.org/10.1093/bjsw/bcag017) in the *British Journal of Social Work* on responsible uses of administrative data in evaluating children's social care.
+- **January 2026**: [New paper](https://doi.org/10.1007/s10389-025-02632-9) in the *Journal of Public Health* on adopting a digital tool to measure child development at the 2–2½ year review.
+- **November 2025**: Started as Research Fellow at UCL Great Ormond Street Institute of Child Health.
+- **June 2025**: [Evaluation report on Multi-Agency Safeguarding Hubs](https://foundations.org.uk/wp-content/uploads/2025/06/evaluation-of-multi-agency-safeguarding-hubs.pdf) published by Foundations.
